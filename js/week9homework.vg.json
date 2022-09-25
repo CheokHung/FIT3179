@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Historical number of Olympic Medals Won per Country",
-  "width": 900,
-  "height": 600,
+  "title": "Historical number of Olympic Medals Won per Country (over 120 Years)",
+  "width": 1200,
+  "height": 750,
   "projection": {"type":"equalEarth"},
   "data": {
       "url": "https://raw.githubusercontent.com/CheokHung/FIT3179/master/js/ne_110m_admin_0_countries.topojson",
@@ -30,7 +30,7 @@
     "color":{
       "field":"Medals Won",
       "type": "quantitative",
-      "scale": {"type":"log", "domain":[1,5000]}
+      "scale": {"type":"log", "domain":[1,10000]}
     },
     "tooltip":[
       {"field": "properties.NAME", "type": "nominal", "title": "Country"},
