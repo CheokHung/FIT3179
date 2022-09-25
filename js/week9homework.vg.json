@@ -15,11 +15,12 @@
         "data" :{
           "url":"https://raw.githubusercontent.com/CheokHung/FIT3179/main/data/cleaned_data.csv"
         },
-        "key":"region",
+        "key":"Country",
         "fields": ["Medal"]
-      }
-    },
-    {"calculate": "datum.Medal + 0.1","as" : "Medals Won" }
+      },
+      "as":"test"
+    }
+   
   ],
   "mark":{"type": "geoshape"},
   "encoding": {
