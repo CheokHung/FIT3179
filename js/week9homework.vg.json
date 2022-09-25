@@ -5,7 +5,7 @@
   "height": 600,
   "projection": {"type":"equalEarth"},
   "data": {
-      "url": "https://github.com/CheokHung/FIT3179/blob/master/js/ne_110m_admin_0_countries.topojson",
+      "url": "https://raw.githubusercontent.com/CheokHung/FIT3179/master/js/ne_110m_admin_0_countries.topojson",
       "format":{"type": "topojson", "feature": "ne_110m_admin_0_countries"} 
   },
   "transform": [
@@ -15,7 +15,7 @@
       "lookup": "properties.NAME",
       "from":{
         "data" :{
-          "url":"https://github.com/CheokHung/FIT3179/blob/master/data/cleaned_data.csv"
+          "url":"https://raw.githubusercontent.com/CheokHung/FIT3179/master/data/cleaned_data.csv"
         },
         "key":"Country",
         "fields": ["Medal"]
