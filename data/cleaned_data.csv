@@ -1,206 +1,206 @@
-Country,Medal
-Afghanistan,2
-Albania,0
-Algeria,17
-American Samoa,0
-Andorra,0
-Angola,0
-Antigua,0
-Argentina,274
-Armenia,16
-Aruba,0
-Australia,1349
-Austria,450
-Azerbaijan,44
-Bahamas,40
-Bahrain,3
-Bangladesh,0
-Barbados,1
-Belarus,139
-Belgium,468
-Belize,0
-Benin,0
-Bermuda,1
-Bhutan,0
-Boliva,0
-Bosnia and Herzegovina,0
-Botswana,1
-Brazil,475
-Brunei,0
-Bulgaria,342
-Burkina Faso,0
-Burundi,2
-Cambodia,0
-Cameroon,22
-Canada,1352
-Cape Verde,0
-Cayman Islands,0
-Central African Republic,0
-Chad,0
-Chile,32
-China,993
-Colombia,28
-Comoros,0
-Cook Islands,0
-Costa Rica,4
-Croatia,149
-Cuba,409
-Curacao,1
-Cyprus,1
-Czech Republic,644
-Democratic Republic of the Congo,0
-Denmark,597
-Djibouti,1
-Dominica,0
-Dominican Republic,7
-Ecuador,2
-Egypt,27
-El Salvador,0
-Equatorial Guinea,0
-Eritrea,1
-Estonia,50
-Ethiopia,53
-Fiji,13
-Finland,900
-France,1777
-Gabon,1
-Gambia,0
-Georgia,32
-Germany,3756
-Ghana,23
-Greece,255
-Grenada,2
-Guam,0
-Guatemala,1
-Guinea,0
-Guinea-Bissau,0
-Guyana,1
-Haiti,7
-Honduras,0
-Hungary,1135
-Iceland,17
-India,197
-Individual Olympic Athletes,5
-Indonesia,41
-Iran,68
-Iraq,1
-Ireland,35
-Israel,9
-Italy,1637
-Ivory Coast,3
-Jamaica,157
-Japan,913
-Jordan,1
-Kazakhstan,77
-Kenya,106
-Kiribati,0
-Kosovo,1
-Kuwait,2
-Kyrgyzstan,3
-Laos,0
-Latvia,35
-Lebanon,4
-Lesotho,0
-Liberia,0
-Libya,0
-Liechtenstein,9
-Lithuania,61
-Luxembourg,8
-Macedonia,1
-Madagascar,0
-Malawi,0
-Malaysia,16
-Maldives,0
-Mali,0
-Malta,0
-Marshall Islands,0
-Mauritania,0
-Mauritius,1
-Mexico,110
-Micronesia,0
-Moldova,8
-Monaco,1
-Mongolia,26
-Montenegro,14
-Morocco,23
-Mozambique,2
-Myanmar,0
-Namibia,4
-Nauru,0
-Nepal,1
-Netherlands,1040
-New Zealand,228
-Nicaragua,0
-Niger,2
-Nigeria,99
-North Korea,67
-Norway,1033
-Oman,0
-Pakistan,121
-Palau,0
-Palestine,0
-Panama,3
-Papua New Guinea,0
-Paraguay,17
-Peru,15
-Philippines,10
-Poland,565
-Portugal,41
-Puerto Rico,9
-Qatar,5
-Republic of Congo,0
-Romania,653
-Russia,3947
-Rwanda,0
-Saint Kitts,0
-Saint Lucia,0
-Saint Vincent,0
-Samoa,0
-San Marino,0
-Sao Tome and Principe,0
-Saudi Arabia,6
-Senegal,1
-Serbia,539
-Seychelles,0
-Sierra Leone,0
-Slovakia,47
-Slovenia,48
-Solomon Islands,0
-Somalia,0
-South Africa,131
-South Korea,638
-South Sudan,0
-Spain,489
-Sri Lanka,2
-Sudan,1
-Suriname,2
-Swaziland,0
-Sweden,1536
-Switzerland,691
-Syria,5
-Taiwan,49
-Tajikistan,4
-Tanzania,2
-Thailand,30
-Timor-Leste,0
-Togo,1
-Tonga,1
-Trinidad,37
-Tunisia,13
-Turkey,95
-Turkmenistan,0
-UK,2068
-United States of America,5637
-Uganda,7
-Ukraine,199
-United Arab Emirates,2
-Uruguay,63
-Uzbekistan,34
-Vanuatu,0
-Venezuela,15
-Vietnam,4
-"Virgin Islands, British",0
-"Virgin Islands, US",1
-Yemen,0
-Zambia,2
-Zimbabwe,22
+Country,Medal,Bronze,Silver,Gold
+Afghanistan,2,2,0,0
+Albania,0,0,0,0
+Algeria,17,8,4,5
+American Samoa,0,0,0,0
+Andorra,0,0,0,0
+Angola,0,0,0,0
+Antigua,0,0,0,0
+Argentina,274,91,92,91
+Armenia,16,9,5,2
+Aruba,0,0,0,0
+Australia,1349,522,459,368
+Austria,450,156,186,108
+Azerbaijan,44,25,12,7
+Bahamas,40,15,11,14
+Bahrain,3,1,1,1
+Bangladesh,0,0,0,0
+Barbados,1,1,0,0
+Belarus,139,71,44,24
+Belgium,468,173,197,98
+Belize,0,0,0,0
+Benin,0,0,0,0
+Bermuda,1,1,0,0
+Bhutan,0,0,0,0
+Boliva,0,0,0,0
+Bosnia and Herzegovina,0,0,0,0
+Botswana,1,0,1,0
+Brazil,475,191,175,109
+Brunei,0,0,0,0
+Bulgaria,342,144,144,54
+Burkina Faso,0,0,0,0
+Burundi,2,0,1,1
+Cambodia,0,0,0,0
+Cameroon,22,1,1,20
+Canada,1352,451,438,463
+Cape Verde,0,0,0,0
+Cayman Islands,0,0,0,0
+Central African Republic,0,0,0,0
+Chad,0,0,0,0
+Chile,32,20,9,3
+China,993,293,349,351
+Colombia,28,14,9,5
+Comoros,0,0,0,0
+Cook Islands,0,0,0,0
+Costa Rica,4,2,1,1
+Croatia,149,37,54,58
+Cuba,409,116,129,164
+Curacao,1,0,1,0
+Cyprus,1,0,1,0
+Czech Republic,644,259,262,123
+Democratic Republic of the Congo,0,0,0,0
+Denmark,597,177,241,179
+Djibouti,1,1,0,0
+Dominica,0,0,0,0
+Dominican Republic,7,2,2,3
+Ecuador,2,0,1,1
+Egypt,27,12,8,7
+El Salvador,0,0,0,0
+Equatorial Guinea,0,0,0,0
+Eritrea,1,1,0,0
+Estonia,50,25,12,13
+Ethiopia,53,22,9,22
+Fiji,13,0,0,13
+Finland,900,432,270,198
+France,1777,666,610,501
+Gabon,1,0,1,0
+Gambia,0,0,0,0
+Georgia,32,18,6,8
+Germany,3756,1260,1195,1301
+Ghana,23,22,1,0
+Greece,255,84,109,62
+Grenada,2,0,1,1
+Guam,0,0,0,0
+Guatemala,1,0,1,0
+Guinea,0,0,0,0
+Guinea-Bissau,0,0,0,0
+Guyana,1,1,0,0
+Haiti,7,5,1,1
+Honduras,0,0,0,0
+Hungary,1135,371,332,432
+Iceland,17,2,15,0
+India,197,40,19,138
+Individual Olympic Athletes,5,3,1,1
+Indonesia,41,13,17,11
+Iran,68,29,21,18
+Iraq,1,1,0,0
+Ireland,35,13,13,9
+Israel,9,7,1,1
+Italy,1637,531,531,575
+Ivory Coast,3,1,1,1
+Jamaica,157,44,75,38
+Japan,913,357,309,247
+Jordan,1,0,0,1
+Kazakhstan,77,32,25,20
+Kenya,106,31,41,34
+Kiribati,0,0,0,0
+Kosovo,1,0,0,1
+Kuwait,2,2,0,0
+Kyrgyzstan,3,2,1,0
+Laos,0,0,0,0
+Latvia,35,13,19,3
+Lebanon,4,2,2,0
+Lesotho,0,0,0,0
+Liberia,0,0,0,0
+Libya,0,0,0,0
+Liechtenstein,9,5,2,2
+Lithuania,61,48,7,6
+Luxembourg,8,0,4,4
+Macedonia,1,1,0,0
+Madagascar,0,0,0,0
+Malawi,0,0,0,0
+Malaysia,16,5,11,0
+Maldives,0,0,0,0
+Mali,0,0,0,0
+Malta,0,0,0,0
+Marshall Islands,0,0,0,0
+Mauritania,0,0,0,0
+Mauritius,1,1,0,0
+Mexico,110,54,26,30
+Micronesia,0,0,0,0
+Moldova,8,5,3,0
+Monaco,1,1,0,0
+Mongolia,26,14,10,2
+Montenegro,14,0,14,0
+Morocco,23,12,5,6
+Mozambique,2,1,0,1
+Myanmar,0,0,0,0
+Namibia,4,0,4,0
+Nauru,0,0,0,0
+Nepal,1,0,0,1
+Netherlands,1040,413,340,287
+New Zealand,228,82,56,90
+Nicaragua,0,0,0,0
+Niger,2,1,1,0
+Nigeria,99,46,30,23
+North Korea,67,35,16,16
+Norway,1033,294,361,378
+Oman,0,0,0,0
+Pakistan,121,34,45,42
+Palau,0,0,0,0
+Palestine,0,0,0,0
+Panama,3,2,0,1
+Papua New Guinea,0,0,0,0
+Paraguay,17,0,17,0
+Peru,15,0,14,1
+Philippines,10,7,3,0
+Poland,565,253,195,117
+Portugal,41,26,11,4
+Puerto Rico,9,6,2,1
+Qatar,5,4,1,0
+Republic of Congo,0,0,0,0
+Romania,653,292,200,161
+Russia,3947,1178,1170,1599
+Rwanda,0,0,0,0
+Saint Kitts,0,0,0,0
+Saint Lucia,0,0,0,0
+Saint Vincent,0,0,0,0
+Samoa,0,0,0,0
+San Marino,0,0,0,0
+Sao Tome and Principe,0,0,0,0
+Saudi Arabia,6,5,1,0
+Senegal,1,0,1,0
+Serbia,539,160,222,157
+Seychelles,0,0,0,0
+Sierra Leone,0,0,0,0
+Slovakia,47,13,19,15
+Slovenia,48,27,13,8
+Solomon Islands,0,0,0,0
+Somalia,0,0,0,0
+South Africa,131,52,47,32
+South Korea,638,185,232,221
+South Sudan,0,0,0,0
+Spain,489,136,243,110
+Sri Lanka,2,0,2,0
+Sudan,1,0,1,0
+Suriname,2,1,0,1
+Swaziland,0,0,0,0
+Sweden,1536,535,522,479
+Switzerland,691,268,248,175
+Syria,5,2,2,1
+Taiwan,49,18,28,3
+Tajikistan,4,2,1,1
+Tanzania,2,0,2,0
+Thailand,30,13,8,9
+Timor-Leste,0,0,0,0
+Togo,1,1,0,0
+Tonga,1,0,1,0
+Trinidad,37,22,8,7
+Tunisia,13,7,3,3
+Turkey,95,28,27,40
+Turkmenistan,0,0,0,0
+UK,2068,651,739,678
+United States of America,5637,1358,1641,2638
+Uganda,7,2,3,2
+Ukraine,199,100,52,47
+United Arab Emirates,2,1,0,1
+Uruguay,63,30,2,31
+Uzbekistan,34,17,7,10
+Vanuatu,0,0,0,0
+Venezuela,15,10,3,2
+Vietnam,4,0,3,1
+"Virgin Islands, British",0,0,0,0
+"Virgin Islands, US",1,0,1,0
+Yemen,0,0,0,0
+Zambia,2,1,1,0
+Zimbabwe,22,1,4,17

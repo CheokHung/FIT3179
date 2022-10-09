@@ -1,0 +1,3259 @@
+Country,Year,Medal,cumulative_sum
+Afghanistan,1936,0,0
+Afghanistan,1948,0,0
+Afghanistan,1956,0,0
+Afghanistan,1960,0,0
+Afghanistan,1964,0,0
+Afghanistan,1968,0,0
+Afghanistan,1972,0,0
+Afghanistan,1980,0,0
+Afghanistan,1988,0,0
+Afghanistan,1996,0,0
+Afghanistan,2004,0,0
+Afghanistan,2008,1,1
+Afghanistan,2012,1,2
+Afghanistan,2016,0,2
+Albania,1972,0,0
+Albania,1992,0,0
+Albania,1996,0,0
+Albania,2000,0,0
+Albania,2004,0,0
+Albania,2006,0,0
+Albania,2008,0,0
+Albania,2010,0,0
+Albania,2012,0,0
+Albania,2014,0,0
+Albania,2016,0,0
+Algeria,1964,0,0
+Algeria,1968,0,0
+Algeria,1972,0,0
+Algeria,1980,0,0
+Algeria,1984,2,2
+Algeria,1988,0,2
+Algeria,1992,2,4
+Algeria,1996,3,7
+Algeria,2000,5,12
+Algeria,2004,0,12
+Algeria,2006,0,12
+Algeria,2008,2,14
+Algeria,2010,0,14
+Algeria,2012,1,15
+Algeria,2016,2,17
+American Samoa,1988,0,0
+American Samoa,1992,0,0
+American Samoa,1994,0,0
+American Samoa,1996,0,0
+American Samoa,2000,0,0
+American Samoa,2004,0,0
+American Samoa,2008,0,0
+American Samoa,2012,0,0
+American Samoa,2016,0,0
+Andorra,1976,0,0
+Andorra,1980,0,0
+Andorra,1984,0,0
+Andorra,1988,0,0
+Andorra,1992,0,0
+Andorra,1994,0,0
+Andorra,1996,0,0
+Andorra,1998,0,0
+Andorra,2000,0,0
+Andorra,2002,0,0
+Andorra,2004,0,0
+Andorra,2006,0,0
+Andorra,2008,0,0
+Andorra,2010,0,0
+Andorra,2012,0,0
+Andorra,2014,0,0
+Andorra,2016,0,0
+Angola,1980,0,0
+Angola,1988,0,0
+Angola,1992,0,0
+Angola,1996,0,0
+Angola,2000,0,0
+Angola,2004,0,0
+Angola,2008,0,0
+Angola,2012,0,0
+Angola,2016,0,0
+Antigua,1976,0,0
+Antigua,1984,0,0
+Antigua,1988,0,0
+Antigua,1992,0,0
+Antigua,1996,0,0
+Antigua,2000,0,0
+Antigua,2004,0,0
+Antigua,2008,0,0
+Antigua,2012,0,0
+Antigua,2016,0,0
+Argentina,1900,0,0
+Argentina,1908,0,0
+Argentina,1920,0,0
+Argentina,1924,10,10
+Argentina,1928,26,36
+Argentina,1932,4,40
+Argentina,1936,11,51
+Argentina,1948,11,62
+Argentina,1952,6,68
+Argentina,1956,2,70
+Argentina,1960,4,74
+Argentina,1964,1,75
+Argentina,1968,2,77
+Argentina,1972,1,78
+Argentina,1976,0,78
+Argentina,1980,0,78
+Argentina,1984,0,78
+Argentina,1988,13,91
+Argentina,1992,2,93
+Argentina,1994,0,93
+Argentina,1996,20,113
+Argentina,1998,0,113
+Argentina,2000,20,133
+Argentina,2002,0,133
+Argentina,2004,49,182
+Argentina,2006,0,182
+Argentina,2008,51,233
+Argentina,2010,0,233
+Argentina,2012,19,252
+Argentina,2014,0,252
+Argentina,2016,22,274
+Armenia,1994,0,0
+Armenia,1996,2,2
+Armenia,1998,0,2
+Armenia,2000,1,3
+Armenia,2002,0,3
+Armenia,2004,0,3
+Armenia,2006,0,3
+Armenia,2008,6,9
+Armenia,2010,0,9
+Armenia,2012,3,12
+Armenia,2014,0,12
+Armenia,2016,4,16
+Aruba,1988,0,0
+Aruba,1992,0,0
+Aruba,1996,0,0
+Aruba,2000,0,0
+Aruba,2004,0,0
+Aruba,2008,0,0
+Aruba,2012,0,0
+Aruba,2016,0,0
+Australia,1896,3,3
+Australia,1900,6,9
+Australia,1904,4,13
+Australia,1906,3,16
+Australia,1908,19,35
+Australia,1912,10,45
+Australia,1920,7,52
+Australia,1924,11,63
+Australia,1928,4,67
+Australia,1932,5,72
+Australia,1936,1,73
+Australia,1948,16,89
+Australia,1952,20,109
+Australia,1956,67,176
+Australia,1960,46,222
+Australia,1964,44,266
+Australia,1968,51,317
+Australia,1972,20,337
+Australia,1976,23,360
+Australia,1980,13,373
+Australia,1984,52,425
+Australia,1988,35,460
+Australia,1992,57,517
+Australia,1994,4,521
+Australia,1996,132,653
+Australia,1998,1,654
+Australia,2000,183,837
+Australia,2002,2,839
+Australia,2004,157,996
+Australia,2006,2,998
+Australia,2008,149,1147
+Australia,2010,3,1150
+Australia,2012,114,1264
+Australia,2014,3,1267
+Australia,2016,82,1349
+Austria,1896,5,5
+Austria,1900,6,11
+Austria,1904,4,15
+Austria,1906,9,24
+Austria,1908,1,25
+Austria,1912,14,39
+Austria,1924,8,47
+Austria,1928,11,58
+Austria,1932,7,65
+Austria,1936,60,125
+Austria,1948,16,141
+Austria,1952,11,152
+Austria,1956,16,168
+Austria,1960,9,177
+Austria,1964,17,194
+Austria,1968,20,214
+Austria,1972,8,222
+Austria,1976,8,230
+Austria,1980,13,243
+Austria,1984,4,247
+Austria,1988,13,260
+Austria,1992,35,295
+Austria,1994,12,307
+Austria,1996,3,310
+Austria,1998,20,330
+Austria,2000,4,334
+Austria,2002,20,354
+Austria,2004,8,362
+Austria,2006,30,392
+Austria,2008,3,395
+Austria,2010,26,421
+Austria,2012,0,421
+Austria,2014,27,448
+Austria,2016,2,450
+Azerbaijan,1996,1,1
+Azerbaijan,1998,0,1
+Azerbaijan,2000,3,4
+Azerbaijan,2002,0,4
+Azerbaijan,2004,5,9
+Azerbaijan,2006,0,9
+Azerbaijan,2008,7,16
+Azerbaijan,2010,0,16
+Azerbaijan,2012,10,26
+Azerbaijan,2014,0,26
+Azerbaijan,2016,18,44
+Bahamas,1952,0,0
+Bahamas,1956,2,2
+Bahamas,1960,0,2
+Bahamas,1964,2,4
+Bahamas,1968,0,4
+Bahamas,1972,0,4
+Bahamas,1976,0,4
+Bahamas,1984,0,4
+Bahamas,1988,0,4
+Bahamas,1992,1,5
+Bahamas,1996,5,10
+Bahamas,2000,11,21
+Bahamas,2004,2,23
+Bahamas,2008,7,30
+Bahamas,2012,4,34
+Bahamas,2016,6,40
+Bahrain,1984,0,0
+Bahrain,1988,0,0
+Bahrain,1992,0,0
+Bahrain,1996,0,0
+Bahrain,2000,0,0
+Bahrain,2004,0,0
+Bahrain,2008,0,0
+Bahrain,2012,1,1
+Bahrain,2016,2,3
+Bangladesh,1984,0,0
+Bangladesh,1988,0,0
+Bangladesh,1992,0,0
+Bangladesh,1996,0,0
+Bangladesh,2000,0,0
+Bangladesh,2004,0,0
+Bangladesh,2008,0,0
+Bangladesh,2012,0,0
+Bangladesh,2016,0,0
+Barbados,1968,0,0
+Barbados,1972,0,0
+Barbados,1976,0,0
+Barbados,1984,0,0
+Barbados,1988,0,0
+Barbados,1992,0,0
+Barbados,1996,0,0
+Barbados,2000,1,1
+Barbados,2004,0,1
+Barbados,2008,0,1
+Barbados,2012,0,1
+Barbados,2016,0,1
+Belarus,1994,2,2
+Belarus,1996,23,25
+Belarus,1998,2,27
+Belarus,2000,22,49
+Belarus,2002,1,50
+Belarus,2004,15,65
+Belarus,2006,1,66
+Belarus,2008,29,95
+Belarus,2010,3,98
+Belarus,2012,23,121
+Belarus,2014,6,127
+Belarus,2016,12,139
+Belgium,1900,43,43
+Belgium,1906,11,54
+Belgium,1908,33,87
+Belgium,1912,19,106
+Belgium,1920,188,294
+Belgium,1924,44,338
+Belgium,1928,6,344
+Belgium,1932,1,345
+Belgium,1936,14,359
+Belgium,1948,21,380
+Belgium,1952,8,388
+Belgium,1956,2,390
+Belgium,1960,4,394
+Belgium,1964,3,397
+Belgium,1968,3,400
+Belgium,1972,2,402
+Belgium,1976,9,411
+Belgium,1980,1,412
+Belgium,1984,5,417
+Belgium,1988,2,419
+Belgium,1992,3,422
+Belgium,1994,0,422
+Belgium,1996,6,428
+Belgium,1998,1,429
+Belgium,2000,7,436
+Belgium,2002,0,436
+Belgium,2004,3,439
+Belgium,2006,0,439
+Belgium,2008,5,444
+Belgium,2010,0,444
+Belgium,2012,3,447
+Belgium,2014,0,447
+Belgium,2016,21,468
+Belize,1968,0,0
+Belize,1972,0,0
+Belize,1976,0,0
+Belize,1984,0,0
+Belize,1988,0,0
+Belize,1992,0,0
+Belize,1996,0,0
+Belize,2000,0,0
+Belize,2004,0,0
+Belize,2008,0,0
+Belize,2012,0,0
+Belize,2016,0,0
+Benin,1972,0,0
+Benin,1980,0,0
+Benin,1984,0,0
+Benin,1988,0,0
+Benin,1992,0,0
+Benin,1996,0,0
+Benin,2000,0,0
+Benin,2004,0,0
+Benin,2008,0,0
+Benin,2012,0,0
+Benin,2016,0,0
+Bermuda,1936,0,0
+Bermuda,1948,0,0
+Bermuda,1952,0,0
+Bermuda,1956,0,0
+Bermuda,1960,0,0
+Bermuda,1964,0,0
+Bermuda,1968,0,0
+Bermuda,1972,0,0
+Bermuda,1976,1,1
+Bermuda,1984,0,1
+Bermuda,1988,0,1
+Bermuda,1992,0,1
+Bermuda,1994,0,1
+Bermuda,1996,0,1
+Bermuda,1998,0,1
+Bermuda,2000,0,1
+Bermuda,2002,0,1
+Bermuda,2004,0,1
+Bermuda,2006,0,1
+Bermuda,2008,0,1
+Bermuda,2010,0,1
+Bermuda,2012,0,1
+Bermuda,2014,0,1
+Bermuda,2016,0,1
+Bhutan,1984,0,0
+Bhutan,1988,0,0
+Bhutan,1992,0,0
+Bhutan,1996,0,0
+Bhutan,2000,0,0
+Bhutan,2004,0,0
+Bhutan,2008,0,0
+Bhutan,2012,0,0
+Bhutan,2016,0,0
+Boliva,1936,0,0
+Boliva,1956,0,0
+Boliva,1964,0,0
+Boliva,1968,0,0
+Boliva,1972,0,0
+Boliva,1976,0,0
+Boliva,1980,0,0
+Boliva,1984,0,0
+Boliva,1988,0,0
+Boliva,1992,0,0
+Boliva,1996,0,0
+Boliva,2000,0,0
+Boliva,2004,0,0
+Boliva,2008,0,0
+Boliva,2012,0,0
+Boliva,2016,0,0
+Bosnia and Herzegovina,1992,0,0
+Bosnia and Herzegovina,1994,0,0
+Bosnia and Herzegovina,1996,0,0
+Bosnia and Herzegovina,1998,0,0
+Bosnia and Herzegovina,2000,0,0
+Bosnia and Herzegovina,2002,0,0
+Bosnia and Herzegovina,2004,0,0
+Bosnia and Herzegovina,2006,0,0
+Bosnia and Herzegovina,2008,0,0
+Bosnia and Herzegovina,2010,0,0
+Bosnia and Herzegovina,2012,0,0
+Bosnia and Herzegovina,2014,0,0
+Bosnia and Herzegovina,2016,0,0
+Botswana,1980,0,0
+Botswana,1984,0,0
+Botswana,1988,0,0
+Botswana,1992,0,0
+Botswana,1996,0,0
+Botswana,2000,0,0
+Botswana,2004,0,0
+Botswana,2008,0,0
+Botswana,2012,1,1
+Botswana,2016,0,1
+Brazil,1900,0,0
+Brazil,1920,7,7
+Brazil,1924,0,7
+Brazil,1932,0,7
+Brazil,1936,0,7
+Brazil,1948,10,17
+Brazil,1952,3,20
+Brazil,1956,1,21
+Brazil,1960,13,34
+Brazil,1964,12,46
+Brazil,1968,4,50
+Brazil,1972,2,52
+Brazil,1976,3,55
+Brazil,1980,9,64
+Brazil,1984,36,100
+Brazil,1988,23,123
+Brazil,1992,14,137
+Brazil,1994,0,137
+Brazil,1996,63,200
+Brazil,1998,0,200
+Brazil,2000,48,248
+Brazil,2002,0,248
+Brazil,2004,40,288
+Brazil,2006,0,288
+Brazil,2008,78,366
+Brazil,2010,0,366
+Brazil,2012,59,425
+Brazil,2014,0,425
+Brazil,2016,50,475
+Brunei,1996,0,0
+Brunei,2000,0,0
+Brunei,2004,0,0
+Brunei,2012,0,0
+Brunei,2016,0,0
+Bulgaria,1924,0,0
+Bulgaria,1928,0,0
+Bulgaria,1932,0,0
+Bulgaria,1936,0,0
+Bulgaria,1948,0,0
+Bulgaria,1952,1,1
+Bulgaria,1956,18,19
+Bulgaria,1960,7,26
+Bulgaria,1964,10,36
+Bulgaria,1968,26,62
+Bulgaria,1972,22,84
+Bulgaria,1976,39,123
+Bulgaria,1980,91,214
+Bulgaria,1984,0,214
+Bulgaria,1988,41,255
+Bulgaria,1992,17,272
+Bulgaria,1994,0,272
+Bulgaria,1996,21,293
+Bulgaria,1998,1,294
+Bulgaria,2000,13,307
+Bulgaria,2002,3,310
+Bulgaria,2004,17,327
+Bulgaria,2006,1,328
+Bulgaria,2008,5,333
+Bulgaria,2010,0,333
+Bulgaria,2012,2,335
+Bulgaria,2014,0,335
+Bulgaria,2016,7,342
+Burkina Faso,1972,0,0
+Burkina Faso,1988,0,0
+Burkina Faso,1992,0,0
+Burkina Faso,1996,0,0
+Burkina Faso,2000,0,0
+Burkina Faso,2004,0,0
+Burkina Faso,2008,0,0
+Burkina Faso,2012,0,0
+Burkina Faso,2016,0,0
+Burundi,1996,1,1
+Burundi,2000,0,1
+Burundi,2004,0,1
+Burundi,2008,0,1
+Burundi,2012,0,1
+Burundi,2016,1,2
+Cambodia,1956,0,0
+Cambodia,1964,0,0
+Cambodia,1972,0,0
+Cambodia,1996,0,0
+Cambodia,2000,0,0
+Cambodia,2004,0,0
+Cambodia,2008,0,0
+Cambodia,2012,0,0
+Cambodia,2016,0,0
+Cameroon,1964,0,0
+Cameroon,1968,1,1
+Cameroon,1972,0,1
+Cameroon,1976,0,1
+Cameroon,1980,0,1
+Cameroon,1984,1,2
+Cameroon,1988,0,2
+Cameroon,1992,0,2
+Cameroon,1996,0,2
+Cameroon,2000,18,20
+Cameroon,2002,0,20
+Cameroon,2004,1,21
+Cameroon,2008,1,22
+Cameroon,2012,0,22
+Cameroon,2016,0,22
+Canada,1900,2,2
+Canada,1904,48,50
+Canada,1906,2,52
+Canada,1908,52,104
+Canada,1912,8,112
+Canada,1920,16,128
+Canada,1924,29,157
+Canada,1928,45,202
+Canada,1932,59,261
+Canada,1936,35,296
+Canada,1948,22,318
+Canada,1952,21,339
+Canada,1956,39,378
+Canada,1960,30,408
+Canada,1964,12,420
+Canada,1968,30,450
+Canada,1972,12,462
+Canada,1976,26,488
+Canada,1980,2,490
+Canada,1984,91,581
+Canada,1988,29,610
+Canada,1992,80,690
+Canada,1994,37,727
+Canada,1996,50,777
+Canada,1998,49,826
+Canada,2000,31,857
+Canada,2002,74,931
+Canada,2004,17,948
+Canada,2006,69,1017
+Canada,2008,35,1052
+Canada,2010,90,1142
+Canada,2012,55,1197
+Canada,2014,86,1283
+Canada,2016,69,1352
+Cape Verde,1996,0,0
+Cape Verde,2000,0,0
+Cape Verde,2004,0,0
+Cape Verde,2008,0,0
+Cape Verde,2012,0,0
+Cape Verde,2016,0,0
+Cayman Islands,1976,0,0
+Cayman Islands,1984,0,0
+Cayman Islands,1988,0,0
+Cayman Islands,1992,0,0
+Cayman Islands,1996,0,0
+Cayman Islands,2000,0,0
+Cayman Islands,2004,0,0
+Cayman Islands,2008,0,0
+Cayman Islands,2010,0,0
+Cayman Islands,2012,0,0
+Cayman Islands,2014,0,0
+Cayman Islands,2016,0,0
+Central African Republic,1968,0,0
+Central African Republic,1984,0,0
+Central African Republic,1988,0,0
+Central African Republic,1992,0,0
+Central African Republic,1996,0,0
+Central African Republic,2000,0,0
+Central African Republic,2004,0,0
+Central African Republic,2008,0,0
+Central African Republic,2012,0,0
+Central African Republic,2016,0,0
+Chad,1964,0,0
+Chad,1968,0,0
+Chad,1972,0,0
+Chad,1984,0,0
+Chad,1988,0,0
+Chad,1992,0,0
+Chad,1996,0,0
+Chad,2000,0,0
+Chad,2004,0,0
+Chad,2008,0,0
+Chad,2012,0,0
+Chad,2016,0,0
+Chile,1912,0,0
+Chile,1920,0,0
+Chile,1924,0,0
+Chile,1928,1,1
+Chile,1936,0,1
+Chile,1948,0,1
+Chile,1952,4,5
+Chile,1956,4,9
+Chile,1960,0,9
+Chile,1964,0,9
+Chile,1968,0,9
+Chile,1972,0,9
+Chile,1976,0,9
+Chile,1984,0,9
+Chile,1988,1,10
+Chile,1992,0,10
+Chile,1994,0,10
+Chile,1996,0,10
+Chile,1998,0,10
+Chile,2000,17,27
+Chile,2002,0,27
+Chile,2004,4,31
+Chile,2006,0,31
+Chile,2008,1,32
+Chile,2010,0,32
+Chile,2012,0,32
+Chile,2014,0,32
+Chile,2016,0,32
+China,1932,0,0
+China,1936,0,0
+China,1948,0,0
+China,1952,0,0
+China,1956,0,0
+China,1960,0,0
+China,1964,0,0
+China,1968,0,0
+China,1972,0,0
+China,1976,0,0
+China,1980,0,0
+China,1984,74,74
+China,1988,52,126
+China,1992,85,211
+China,1994,3,214
+China,1996,107,321
+China,1998,14,335
+China,2000,79,414
+China,2002,16,430
+China,2004,96,526
+China,2006,13,539
+China,2008,184,723
+China,2010,19,742
+China,2012,126,868
+China,2014,12,880
+China,2016,113,993
+Colombia,1900,1,1
+Colombia,1932,0,1
+Colombia,1936,0,1
+Colombia,1948,0,1
+Colombia,1956,0,1
+Colombia,1960,0,1
+Colombia,1964,0,1
+Colombia,1968,0,1
+Colombia,1972,3,4
+Colombia,1976,0,4
+Colombia,1980,0,4
+Colombia,1984,1,5
+Colombia,1988,1,6
+Colombia,1992,1,7
+Colombia,1996,0,7
+Colombia,2000,1,8
+Colombia,2004,2,10
+Colombia,2008,2,12
+Colombia,2010,0,12
+Colombia,2012,8,20
+Colombia,2016,8,28
+Comoros,1996,0,0
+Comoros,2000,0,0
+Comoros,2004,0,0
+Comoros,2008,0,0
+Comoros,2012,0,0
+Comoros,2016,0,0
+Cook Islands,1988,0,0
+Cook Islands,1992,0,0
+Cook Islands,1996,0,0
+Cook Islands,2000,0,0
+Cook Islands,2004,0,0
+Cook Islands,2008,0,0
+Cook Islands,2012,0,0
+Cook Islands,2016,0,0
+Costa Rica,1936,0,0
+Costa Rica,1964,0,0
+Costa Rica,1968,0,0
+Costa Rica,1972,0,0
+Costa Rica,1976,0,0
+Costa Rica,1980,0,0
+Costa Rica,1984,0,0
+Costa Rica,1988,1,1
+Costa Rica,1992,0,1
+Costa Rica,1996,1,2
+Costa Rica,2000,2,4
+Costa Rica,2002,0,4
+Costa Rica,2004,0,4
+Costa Rica,2006,0,4
+Costa Rica,2008,0,4
+Costa Rica,2012,0,4
+Costa Rica,2016,0,4
+Croatia,1992,15,15
+Croatia,1994,0,15
+Croatia,1996,28,43
+Croatia,1998,0,43
+Croatia,2000,10,53
+Croatia,2002,4,57
+Croatia,2004,21,78
+Croatia,2006,3,81
+Croatia,2008,5,86
+Croatia,2010,3,89
+Croatia,2012,35,124
+Croatia,2014,1,125
+Croatia,2016,24,149
+Cuba,1900,2,2
+Cuba,1904,5,7
+Cuba,1924,0,7
+Cuba,1928,0,7
+Cuba,1932,0,7
+Cuba,1948,2,9
+Cuba,1952,0,9
+Cuba,1956,0,9
+Cuba,1960,0,9
+Cuba,1964,1,10
+Cuba,1968,10,20
+Cuba,1972,22,42
+Cuba,1976,24,66
+Cuba,1980,20,86
+Cuba,1992,69,155
+Cuba,1996,55,210
+Cuba,2000,65,275
+Cuba,2004,62,337
+Cuba,2008,47,384
+Cuba,2012,14,398
+Cuba,2016,11,409
+Curacao,1952,0,0
+Curacao,1960,0,0
+Curacao,1964,0,0
+Curacao,1968,0,0
+Curacao,1972,0,0
+Curacao,1976,0,0
+Curacao,1984,0,0
+Curacao,1988,1,1
+Curacao,1992,0,1
+Curacao,1996,0,1
+Curacao,2000,0,1
+Curacao,2004,0,1
+Curacao,2008,0,1
+Cyprus,1980,0,0
+Cyprus,1984,0,0
+Cyprus,1988,0,0
+Cyprus,1992,0,0
+Cyprus,1994,0,0
+Cyprus,1996,0,0
+Cyprus,1998,0,0
+Cyprus,2000,0,0
+Cyprus,2002,0,0
+Cyprus,2004,0,0
+Cyprus,2006,0,0
+Cyprus,2008,0,0
+Cyprus,2010,0,0
+Cyprus,2012,1,1
+Cyprus,2014,0,1
+Cyprus,2016,0,1
+Czech Republic,1900,3,3
+Czech Republic,1906,3,6
+Czech Republic,1908,6,12
+Czech Republic,1912,0,12
+Czech Republic,1920,10,22
+Czech Republic,1924,10,32
+Czech Republic,1928,17,49
+Czech Republic,1932,6,55
+Czech Republic,1936,18,73
+Czech Republic,1948,37,110
+Czech Republic,1952,25,135
+Czech Republic,1956,7,142
+Czech Republic,1960,23,165
+Czech Republic,1964,71,236
+Czech Republic,1968,50,286
+Czech Republic,1972,49,335
+Czech Republic,1976,34,369
+Czech Republic,1980,52,421
+Czech Republic,1984,28,449
+Czech Republic,1988,16,465
+Czech Republic,1992,35,500
+Czech Republic,1994,0,500
+Czech Republic,1996,13,513
+Czech Republic,1998,23,536
+Czech Republic,2000,9,545
+Czech Republic,2002,3,548
+Czech Republic,2004,13,561
+Czech Republic,2006,27,588
+Czech Republic,2008,7,595
+Czech Republic,2010,9,604
+Czech Republic,2012,14,618
+Czech Republic,2014,11,629
+Czech Republic,2016,15,644
+Democratic Republic of the Congo,1968,0,0
+Democratic Republic of the Congo,1984,0,0
+Democratic Republic of the Congo,1988,0,0
+Democratic Republic of the Congo,1992,0,0
+Democratic Republic of the Congo,1996,0,0
+Democratic Republic of the Congo,2000,0,0
+Democratic Republic of the Congo,2004,0,0
+Democratic Republic of the Congo,2008,0,0
+Democratic Republic of the Congo,2012,0,0
+Democratic Republic of the Congo,2016,0,0
+Denmark,1896,6,6
+Denmark,1900,9,15
+Denmark,1906,34,49
+Denmark,1908,17,66
+Denmark,1912,87,153
+Denmark,1920,71,224
+Denmark,1924,14,238
+Denmark,1928,15,253
+Denmark,1932,11,264
+Denmark,1936,6,270
+Denmark,1948,51,321
+Denmark,1952,9,330
+Denmark,1956,6,336
+Denmark,1960,23,359
+Denmark,1964,12,371
+Denmark,1968,17,388
+Denmark,1972,1,389
+Denmark,1976,8,397
+Denmark,1980,8,405
+Denmark,1984,13,418
+Denmark,1988,7,425
+Denmark,1992,14,439
+Denmark,1994,0,439
+Denmark,1996,23,462
+Denmark,1998,5,467
+Denmark,2000,25,492
+Denmark,2002,0,492
+Denmark,2004,29,521
+Denmark,2006,0,521
+Denmark,2008,19,540
+Denmark,2010,0,540
+Denmark,2012,16,556
+Denmark,2014,0,556
+Denmark,2016,41,597
+Djibouti,1984,0,0
+Djibouti,1988,1,1
+Djibouti,1992,0,1
+Djibouti,1996,0,1
+Djibouti,2000,0,1
+Djibouti,2008,0,1
+Djibouti,2012,0,1
+Djibouti,2016,0,1
+Dominica,1996,0,0
+Dominica,2000,0,0
+Dominica,2004,0,0
+Dominica,2008,0,0
+Dominica,2012,0,0
+Dominica,2014,0,0
+Dominica,2016,0,0
+Dominican Republic,1964,0,0
+Dominican Republic,1968,0,0
+Dominican Republic,1972,0,0
+Dominican Republic,1976,0,0
+Dominican Republic,1980,0,0
+Dominican Republic,1984,1,1
+Dominican Republic,1988,0,1
+Dominican Republic,1992,0,1
+Dominican Republic,1996,0,1
+Dominican Republic,2000,0,1
+Dominican Republic,2004,1,2
+Dominican Republic,2008,2,4
+Dominican Republic,2012,2,6
+Dominican Republic,2016,1,7
+Ecuador,1924,0,0
+Ecuador,1968,0,0
+Ecuador,1972,0,0
+Ecuador,1976,0,0
+Ecuador,1980,0,0
+Ecuador,1984,0,0
+Ecuador,1988,0,0
+Ecuador,1992,0,0
+Ecuador,1996,1,1
+Ecuador,2000,0,1
+Ecuador,2004,0,1
+Ecuador,2008,1,2
+Ecuador,2012,0,2
+Ecuador,2016,0,2
+Egypt,1906,0,0
+Egypt,1920,0,0
+Egypt,1924,0,0
+Egypt,1928,4,4
+Egypt,1936,5,9
+Egypt,1948,5,14
+Egypt,1952,1,15
+Egypt,1956,0,15
+Egypt,1964,0,15
+Egypt,1968,0,15
+Egypt,1972,0,15
+Egypt,1976,0,15
+Egypt,1984,1,16
+Egypt,1988,0,16
+Egypt,1992,0,16
+Egypt,1996,0,16
+Egypt,2000,0,16
+Egypt,2004,5,21
+Egypt,2008,1,22
+Egypt,2012,2,24
+Egypt,2016,3,27
+El Salvador,1932,0,0
+El Salvador,1968,0,0
+El Salvador,1972,0,0
+El Salvador,1984,0,0
+El Salvador,1988,0,0
+El Salvador,1992,0,0
+El Salvador,1996,0,0
+El Salvador,2000,0,0
+El Salvador,2004,0,0
+El Salvador,2008,0,0
+El Salvador,2012,0,0
+El Salvador,2016,0,0
+Equatorial Guinea,1984,0,0
+Equatorial Guinea,1988,0,0
+Equatorial Guinea,1992,0,0
+Equatorial Guinea,1996,0,0
+Equatorial Guinea,2000,0,0
+Equatorial Guinea,2004,0,0
+Equatorial Guinea,2008,0,0
+Equatorial Guinea,2012,0,0
+Equatorial Guinea,2016,0,0
+Eritrea,2000,0,0
+Eritrea,2004,1,1
+Eritrea,2008,0,1
+Eritrea,2012,0,1
+Eritrea,2016,0,1
+Estonia,1920,3,3
+Estonia,1924,6,9
+Estonia,1928,9,18
+Estonia,1932,0,18
+Estonia,1936,7,25
+Estonia,1992,3,28
+Estonia,1994,0,28
+Estonia,1996,0,28
+Estonia,1998,0,28
+Estonia,2000,3,31
+Estonia,2002,3,34
+Estonia,2004,3,37
+Estonia,2006,3,40
+Estonia,2008,3,43
+Estonia,2010,1,44
+Estonia,2012,2,46
+Estonia,2014,0,46
+Estonia,2016,4,50
+Ethiopia,1956,0,0
+Ethiopia,1960,1,1
+Ethiopia,1964,1,2
+Ethiopia,1968,2,4
+Ethiopia,1972,2,6
+Ethiopia,1980,4,10
+Ethiopia,1992,3,13
+Ethiopia,1996,3,16
+Ethiopia,2000,8,24
+Ethiopia,2004,7,31
+Ethiopia,2006,0,31
+Ethiopia,2008,7,38
+Ethiopia,2010,0,38
+Ethiopia,2012,7,45
+Ethiopia,2016,8,53
+Fiji,1956,0,0
+Fiji,1960,0,0
+Fiji,1968,0,0
+Fiji,1972,0,0
+Fiji,1976,0,0
+Fiji,1984,0,0
+Fiji,1988,0,0
+Fiji,1992,0,0
+Fiji,1994,0,0
+Fiji,1996,0,0
+Fiji,2000,0,0
+Fiji,2002,0,0
+Fiji,2004,0,0
+Fiji,2008,0,0
+Fiji,2012,0,0
+Fiji,2016,13,13
+Finland,1906,4,4
+Finland,1908,30,34
+Finland,1912,71,105
+Finland,1920,52,157
+Finland,1924,67,224
+Finland,1928,29,253
+Finland,1932,32,285
+Finland,1936,36,321
+Finland,1948,42,363
+Finland,1952,52,415
+Finland,1956,38,453
+Finland,1960,19,472
+Finland,1964,20,492
+Finland,1968,12,504
+Finland,1972,20,524
+Finland,1976,22,546
+Finland,1980,21,567
+Finland,1984,31,598
+Finland,1988,38,636
+Finland,1992,20,656
+Finland,1994,30,686
+Finland,1996,4,690
+Finland,1998,58,748
+Finland,2000,5,753
+Finland,2002,13,766
+Finland,2004,2,768
+Finland,2006,41,809
+Finland,2008,5,814
+Finland,2010,47,861
+Finland,2012,5,866
+Finland,2014,33,899
+Finland,2016,1,900
+France,1896,11,11
+France,1900,235,246
+France,1904,2,248
+France,1906,64,312
+France,1908,40,352
+France,1912,26,378
+France,1920,141,519
+France,1924,120,639
+France,1928,52,691
+France,1932,42,733
+France,1936,45,778
+France,1948,77,855
+France,1952,41,896
+France,1956,33,929
+France,1960,15,944
+France,1964,38,982
+France,1968,36,1018
+France,1972,25,1043
+France,1976,21,1064
+France,1980,30,1094
+France,1984,70,1164
+France,1988,31,1195
+France,1992,69,1264
+France,1994,11,1275
+France,1996,51,1326
+France,1998,15,1341
+France,2000,66,1407
+France,2002,15,1422
+France,2004,53,1475
+France,2006,15,1490
+France,2008,77,1567
+France,2010,14,1581
+France,2012,82,1663
+France,2014,18,1681
+France,2016,96,1777
+Gabon,1972,0,0
+Gabon,1984,0,0
+Gabon,1988,0,0
+Gabon,1992,0,0
+Gabon,1996,0,0
+Gabon,2000,0,0
+Gabon,2004,0,0
+Gabon,2008,0,0
+Gabon,2012,1,1
+Gabon,2016,0,1
+Gambia,1984,0,0
+Gambia,1988,0,0
+Gambia,1992,0,0
+Gambia,1996,0,0
+Gambia,2000,0,0
+Gambia,2004,0,0
+Gambia,2008,0,0
+Gambia,2012,0,0
+Gambia,2016,0,0
+Georgia,1994,0,0
+Georgia,1996,2,2
+Georgia,1998,0,2
+Georgia,2000,6,8
+Georgia,2002,0,8
+Georgia,2004,4,12
+Georgia,2006,0,12
+Georgia,2008,6,18
+Georgia,2010,0,18
+Georgia,2012,7,25
+Georgia,2014,0,25
+Georgia,2016,7,32
+Germany,1896,32,32
+Germany,1900,45,77
+Germany,1904,16,93
+Germany,1906,30,123
+Germany,1908,21,144
+Germany,1912,53,197
+Germany,1928,82,279
+Germany,1932,57,336
+Germany,1936,231,567
+Germany,1952,52,619
+Germany,1956,54,673
+Germany,1960,98,771
+Germany,1964,126,897
+Germany,1968,119,1016
+Germany,1972,283,1299
+Germany,1976,337,1636
+Germany,1980,311,1947
+Germany,1984,199,2146
+Germany,1988,342,2488
+Germany,1992,236,2724
+Germany,1994,40,2764
+Germany,1996,124,2888
+Germany,1998,44,2932
+Germany,2000,118,3050
+Germany,2002,61,3111
+Germany,2004,149,3260
+Germany,2006,54,3314
+Germany,2008,99,3413
+Germany,2010,54,3467
+Germany,2012,94,3561
+Germany,2014,36,3597
+Germany,2016,159,3756
+Ghana,1952,0,0
+Ghana,1960,1,1
+Ghana,1964,1,2
+Ghana,1968,0,2
+Ghana,1972,1,3
+Ghana,1984,0,3
+Ghana,1988,0,3
+Ghana,1992,20,23
+Ghana,1996,0,23
+Ghana,2000,0,23
+Ghana,2004,0,23
+Ghana,2008,0,23
+Ghana,2010,0,23
+Ghana,2012,0,23
+Ghana,2016,0,23
+Greece,1896,48,48
+Greece,1900,0,48
+Greece,1904,2,50
+Greece,1906,102,152
+Greece,1908,4,156
+Greece,1912,2,158
+Greece,1920,5,163
+Greece,1924,1,164
+Greece,1928,0,164
+Greece,1932,0,164
+Greece,1936,0,164
+Greece,1948,0,164
+Greece,1952,0,164
+Greece,1956,1,165
+Greece,1960,3,168
+Greece,1964,0,168
+Greece,1968,1,169
+Greece,1972,2,171
+Greece,1976,0,171
+Greece,1980,5,176
+Greece,1984,2,178
+Greece,1988,1,179
+Greece,1992,2,181
+Greece,1994,0,181
+Greece,1996,8,189
+Greece,1998,0,189
+Greece,2000,18,207
+Greece,2002,0,207
+Greece,2004,31,238
+Greece,2006,0,238
+Greece,2008,7,245
+Greece,2010,0,245
+Greece,2012,3,248
+Greece,2014,0,248
+Greece,2016,7,255
+Grenada,1984,0,0
+Grenada,1988,0,0
+Grenada,1992,0,0
+Grenada,1996,0,0
+Grenada,2000,0,0
+Grenada,2004,0,0
+Grenada,2008,0,0
+Grenada,2012,1,1
+Grenada,2016,1,2
+Guam,1988,0,0
+Guam,1992,0,0
+Guam,1996,0,0
+Guam,2000,0,0
+Guam,2004,0,0
+Guam,2008,0,0
+Guam,2012,0,0
+Guam,2016,0,0
+Guatemala,1932,0,0
+Guatemala,1952,0,0
+Guatemala,1968,0,0
+Guatemala,1972,0,0
+Guatemala,1976,0,0
+Guatemala,1980,0,0
+Guatemala,1984,0,0
+Guatemala,1988,0,0
+Guatemala,1992,0,0
+Guatemala,1996,0,0
+Guatemala,2000,0,0
+Guatemala,2004,0,0
+Guatemala,2008,0,0
+Guatemala,2012,1,1
+Guatemala,2016,0,1
+Guinea,1968,0,0
+Guinea,1980,0,0
+Guinea,1984,0,0
+Guinea,1988,0,0
+Guinea,1992,0,0
+Guinea,1996,0,0
+Guinea,2000,0,0
+Guinea,2004,0,0
+Guinea,2008,0,0
+Guinea,2012,0,0
+Guinea,2016,0,0
+Guinea-Bissau,1996,0,0
+Guinea-Bissau,2000,0,0
+Guinea-Bissau,2004,0,0
+Guinea-Bissau,2008,0,0
+Guinea-Bissau,2012,0,0
+Guinea-Bissau,2016,0,0
+Guyana,1948,0,0
+Guyana,1952,0,0
+Guyana,1956,0,0
+Guyana,1960,0,0
+Guyana,1964,0,0
+Guyana,1968,0,0
+Guyana,1972,0,0
+Guyana,1980,1,1
+Guyana,1984,0,1
+Guyana,1988,0,1
+Guyana,1992,0,1
+Guyana,1996,0,1
+Guyana,2000,0,1
+Guyana,2004,0,1
+Guyana,2008,0,1
+Guyana,2012,0,1
+Guyana,2016,0,1
+Haiti,1900,1,1
+Haiti,1924,5,6
+Haiti,1928,1,7
+Haiti,1932,0,7
+Haiti,1960,0,7
+Haiti,1972,0,7
+Haiti,1976,0,7
+Haiti,1984,0,7
+Haiti,1988,0,7
+Haiti,1992,0,7
+Haiti,1996,0,7
+Haiti,2000,0,7
+Haiti,2004,0,7
+Haiti,2008,0,7
+Haiti,2012,0,7
+Haiti,2016,0,7
+Honduras,1968,0,0
+Honduras,1976,0,0
+Honduras,1984,0,0
+Honduras,1988,0,0
+Honduras,1992,0,0
+Honduras,1996,0,0
+Honduras,2000,0,0
+Honduras,2004,0,0
+Honduras,2008,0,0
+Honduras,2012,0,0
+Honduras,2016,0,0
+Hungary,1896,6,6
+Hungary,1900,5,11
+Hungary,1904,4,15
+Hungary,1906,13,28
+Hungary,1908,20,48
+Hungary,1912,30,78
+Hungary,1924,22,100
+Hungary,1928,21,121
+Hungary,1932,35,156
+Hungary,1936,43,199
+Hungary,1948,64,263
+Hungary,1952,104,367
+Hungary,1956,66,433
+Hungary,1960,66,499
+Hungary,1964,56,555
+Hungary,1968,81,636
+Hungary,1972,81,717
+Hungary,1976,55,772
+Hungary,1980,63,835
+Hungary,1984,0,835
+Hungary,1988,44,879
+Hungary,1992,45,924
+Hungary,1994,0,924
+Hungary,1996,43,967
+Hungary,1998,0,967
+Hungary,2000,53,1020
+Hungary,2002,0,1020
+Hungary,2004,40,1060
+Hungary,2006,0,1060
+Hungary,2008,27,1087
+Hungary,2010,0,1087
+Hungary,2012,26,1113
+Hungary,2014,0,1113
+Hungary,2016,22,1135
+Iceland,1908,0,0
+Iceland,1912,0,0
+Iceland,1936,0,0
+Iceland,1948,0,0
+Iceland,1952,0,0
+Iceland,1956,1,1
+Iceland,1960,0,1
+Iceland,1964,0,1
+Iceland,1968,0,1
+Iceland,1972,0,1
+Iceland,1976,0,1
+Iceland,1980,0,1
+Iceland,1984,1,2
+Iceland,1988,0,2
+Iceland,1992,0,2
+Iceland,1994,0,2
+Iceland,1996,0,2
+Iceland,1998,0,2
+Iceland,2000,1,3
+Iceland,2002,0,3
+Iceland,2004,0,3
+Iceland,2006,0,3
+Iceland,2008,14,17
+Iceland,2010,0,17
+Iceland,2012,0,17
+Iceland,2014,0,17
+Iceland,2016,0,17
+India,1900,2,2
+India,1920,0,2
+India,1924,7,9
+India,1928,14,23
+India,1932,15,38
+India,1936,19,57
+India,1948,20,77
+India,1952,15,92
+India,1956,17,109
+India,1960,13,122
+India,1964,15,137
+India,1968,16,153
+India,1972,14,167
+India,1976,0,167
+India,1980,16,183
+India,1984,0,183
+India,1988,0,183
+India,1992,0,183
+India,1996,1,184
+India,1998,0,184
+India,2000,1,185
+India,2002,0,185
+India,2004,1,186
+India,2006,0,186
+India,2008,3,189
+India,2010,0,189
+India,2012,6,195
+India,2014,0,195
+India,2016,2,197
+Individual Olympic Athletes,1992,3,3
+Individual Olympic Athletes,2000,0,3
+Individual Olympic Athletes,2012,0,3
+Individual Olympic Athletes,2014,0,3
+Individual Olympic Athletes,2016,2,5
+Indonesia,1952,0,0
+Indonesia,1956,0,0
+Indonesia,1960,0,0
+Indonesia,1968,0,0
+Indonesia,1972,0,0
+Indonesia,1976,0,0
+Indonesia,1984,0,0
+Indonesia,1988,3,3
+Indonesia,1992,6,9
+Indonesia,1996,6,15
+Indonesia,2000,8,23
+Indonesia,2004,5,28
+Indonesia,2008,7,35
+Indonesia,2012,2,37
+Indonesia,2016,4,41
+Iran,1900,0,0
+Iran,1948,1,1
+Iran,1952,7,8
+Iran,1956,5,13
+Iran,1960,4,17
+Iran,1964,2,19
+Iran,1968,5,24
+Iran,1972,3,27
+Iran,1976,2,29
+Iran,1988,1,30
+Iran,1992,3,33
+Iran,1996,3,36
+Iran,1998,0,36
+Iran,2000,4,40
+Iran,2002,0,40
+Iran,2004,6,46
+Iran,2006,0,46
+Iran,2008,2,48
+Iran,2010,0,48
+Iran,2012,12,60
+Iran,2014,0,60
+Iran,2016,8,68
+Iraq,1948,0,0
+Iraq,1960,1,1
+Iraq,1964,0,1
+Iraq,1968,0,1
+Iraq,1980,0,1
+Iraq,1984,0,1
+Iraq,1988,0,1
+Iraq,1992,0,1
+Iraq,1996,0,1
+Iraq,2000,0,1
+Iraq,2004,0,1
+Iraq,2008,0,1
+Iraq,2012,0,1
+Iraq,2016,0,1
+Ireland,1924,2,2
+Ireland,1928,1,3
+Ireland,1932,2,5
+Ireland,1948,1,6
+Ireland,1952,1,7
+Ireland,1956,5,12
+Ireland,1960,0,12
+Ireland,1964,1,13
+Ireland,1968,0,13
+Ireland,1972,0,13
+Ireland,1976,0,13
+Ireland,1980,3,16
+Ireland,1984,1,17
+Ireland,1988,0,17
+Ireland,1992,2,19
+Ireland,1996,4,23
+Ireland,1998,0,23
+Ireland,2000,1,24
+Ireland,2002,0,24
+Ireland,2004,0,24
+Ireland,2006,0,24
+Ireland,2008,3,27
+Ireland,2010,0,27
+Ireland,2012,5,32
+Ireland,2014,0,32
+Ireland,2016,3,35
+Israel,1952,0,0
+Israel,1956,0,0
+Israel,1960,0,0
+Israel,1964,0,0
+Israel,1968,0,0
+Israel,1972,0,0
+Israel,1976,0,0
+Israel,1984,0,0
+Israel,1988,0,0
+Israel,1992,2,2
+Israel,1994,0,2
+Israel,1996,1,3
+Israel,1998,0,3
+Israel,2000,1,4
+Israel,2002,0,4
+Israel,2004,2,6
+Israel,2006,0,6
+Israel,2008,1,7
+Israel,2010,0,7
+Israel,2012,0,7
+Israel,2014,0,7
+Israel,2016,2,9
+Italy,1896,0,0
+Italy,1900,5,5
+Italy,1904,0,5
+Italy,1906,56,61
+Italy,1908,8,69
+Italy,1912,25,94
+Italy,1920,84,178
+Italy,1924,51,229
+Italy,1928,72,301
+Italy,1932,77,378
+Italy,1936,76,454
+Italy,1948,68,522
+Italy,1952,56,578
+Italy,1956,55,633
+Italy,1960,89,722
+Italy,1964,61,783
+Italy,1968,41,824
+Italy,1972,34,858
+Italy,1976,35,893
+Italy,1980,40,933
+Italy,1984,65,998
+Italy,1988,37,1035
+Italy,1992,66,1101
+Italy,1994,32,1133
+Italy,1996,71,1204
+Italy,1998,17,1221
+Italy,2000,65,1286
+Italy,2002,21,1307
+Italy,2004,104,1411
+Italy,2006,25,1436
+Italy,2008,42,1478
+Italy,2010,5,1483
+Italy,2012,68,1551
+Italy,2014,14,1565
+Italy,2016,72,1637
+Ivory Coast,1964,0,0
+Ivory Coast,1968,0,0
+Ivory Coast,1972,0,0
+Ivory Coast,1976,0,0
+Ivory Coast,1984,1,1
+Ivory Coast,1988,0,1
+Ivory Coast,1992,0,1
+Ivory Coast,1996,0,1
+Ivory Coast,2000,0,1
+Ivory Coast,2004,0,1
+Ivory Coast,2008,0,1
+Ivory Coast,2012,0,1
+Ivory Coast,2016,2,3
+Jamaica,1948,3,3
+Jamaica,1952,8,11
+Jamaica,1956,0,11
+Jamaica,1964,0,11
+Jamaica,1968,1,12
+Jamaica,1972,1,13
+Jamaica,1976,2,15
+Jamaica,1980,3,18
+Jamaica,1984,7,25
+Jamaica,1988,7,32
+Jamaica,1992,4,36
+Jamaica,1994,0,36
+Jamaica,1996,16,52
+Jamaica,1998,0,52
+Jamaica,2000,23,75
+Jamaica,2002,0,75
+Jamaica,2004,13,88
+Jamaica,2008,14,102
+Jamaica,2010,0,102
+Jamaica,2012,25,127
+Jamaica,2014,0,127
+Jamaica,2016,30,157
+Japan,1912,0,0
+Japan,1920,3,3
+Japan,1924,1,4
+Japan,1928,9,13
+Japan,1932,31,44
+Japan,1936,23,67
+Japan,1952,12,79
+Japan,1956,25,104
+Japan,1960,31,135
+Japan,1964,62,197
+Japan,1968,63,260
+Japan,1972,59,319
+Japan,1976,41,360
+Japan,1980,1,361
+Japan,1984,50,411
+Japan,1988,21,432
+Japan,1992,59,491
+Japan,1994,10,501
+Japan,1996,42,543
+Japan,1998,13,556
+Japan,2000,44,600
+Japan,2002,2,602
+Japan,2004,93,695
+Japan,2006,1,696
+Japan,2008,51,747
+Japan,2010,7,754
+Japan,2012,84,838
+Japan,2014,11,849
+Japan,2016,64,913
+Jordan,1980,0,0
+Jordan,1984,0,0
+Jordan,1988,0,0
+Jordan,1992,0,0
+Jordan,1996,0,0
+Jordan,2000,0,0
+Jordan,2004,0,0
+Jordan,2008,0,0
+Jordan,2012,0,0
+Jordan,2016,1,1
+Kazakhstan,1994,3,3
+Kazakhstan,1996,11,14
+Kazakhstan,1998,2,16
+Kazakhstan,2000,7,23
+Kazakhstan,2002,0,23
+Kazakhstan,2004,8,31
+Kazakhstan,2006,0,31
+Kazakhstan,2008,13,44
+Kazakhstan,2010,1,45
+Kazakhstan,2012,13,58
+Kazakhstan,2014,1,59
+Kazakhstan,2016,18,77
+Kenya,1956,0,0
+Kenya,1960,0,0
+Kenya,1964,1,1
+Kenya,1968,12,13
+Kenya,1972,12,25
+Kenya,1984,3,28
+Kenya,1988,9,37
+Kenya,1992,8,45
+Kenya,1996,8,53
+Kenya,1998,0,53
+Kenya,2000,7,60
+Kenya,2002,0,60
+Kenya,2004,7,67
+Kenya,2006,0,67
+Kenya,2008,15,82
+Kenya,2012,11,93
+Kenya,2016,13,106
+Kiribati,2004,0,0
+Kiribati,2008,0,0
+Kiribati,2012,0,0
+Kiribati,2016,0,0
+Kosovo,2016,1,1
+Kuwait,1968,0,0
+Kuwait,1972,0,0
+Kuwait,1976,0,0
+Kuwait,1980,0,0
+Kuwait,1984,0,0
+Kuwait,1988,0,0
+Kuwait,1992,0,0
+Kuwait,1996,0,0
+Kuwait,2000,1,1
+Kuwait,2004,0,1
+Kuwait,2008,0,1
+Kuwait,2012,1,2
+Kyrgyzstan,1994,0,0
+Kyrgyzstan,1996,0,0
+Kyrgyzstan,1998,0,0
+Kyrgyzstan,2000,1,1
+Kyrgyzstan,2002,0,1
+Kyrgyzstan,2004,0,1
+Kyrgyzstan,2006,0,1
+Kyrgyzstan,2008,2,3
+Kyrgyzstan,2010,0,3
+Kyrgyzstan,2012,0,3
+Kyrgyzstan,2014,0,3
+Kyrgyzstan,2016,0,3
+Laos,1980,0,0
+Laos,1988,0,0
+Laos,1992,0,0
+Laos,1996,0,0
+Laos,2000,0,0
+Laos,2004,0,0
+Laos,2008,0,0
+Laos,2012,0,0
+Laos,2016,0,0
+Latvia,1924,0,0
+Latvia,1928,0,0
+Latvia,1932,1,1
+Latvia,1936,2,3
+Latvia,1992,3,6
+Latvia,1994,0,6
+Latvia,1996,1,7
+Latvia,1998,0,7
+Latvia,2000,3,10
+Latvia,2002,0,10
+Latvia,2004,4,14
+Latvia,2006,1,15
+Latvia,2008,3,18
+Latvia,2010,3,21
+Latvia,2012,3,24
+Latvia,2014,11,35
+Latvia,2016,0,35
+Lebanon,1948,0,0
+Lebanon,1952,2,2
+Lebanon,1956,0,2
+Lebanon,1960,0,2
+Lebanon,1964,0,2
+Lebanon,1968,0,2
+Lebanon,1972,1,3
+Lebanon,1976,0,3
+Lebanon,1980,1,4
+Lebanon,1984,0,4
+Lebanon,1988,0,4
+Lebanon,1992,0,4
+Lebanon,1996,0,4
+Lebanon,2000,0,4
+Lebanon,2002,0,4
+Lebanon,2004,0,4
+Lebanon,2006,0,4
+Lebanon,2008,0,4
+Lebanon,2010,0,4
+Lebanon,2012,0,4
+Lebanon,2014,0,4
+Lebanon,2016,0,4
+Lesotho,1972,0,0
+Lesotho,1980,0,0
+Lesotho,1984,0,0
+Lesotho,1988,0,0
+Lesotho,1992,0,0
+Lesotho,1996,0,0
+Lesotho,2000,0,0
+Lesotho,2004,0,0
+Lesotho,2008,0,0
+Lesotho,2012,0,0
+Lesotho,2016,0,0
+Liberia,1956,0,0
+Liberia,1960,0,0
+Liberia,1964,0,0
+Liberia,1972,0,0
+Liberia,1984,0,0
+Liberia,1988,0,0
+Liberia,1996,0,0
+Liberia,2000,0,0
+Liberia,2004,0,0
+Liberia,2008,0,0
+Liberia,2012,0,0
+Liberia,2016,0,0
+Libya,1968,0,0
+Libya,1980,0,0
+Libya,1988,0,0
+Libya,1992,0,0
+Libya,1996,0,0
+Libya,2000,0,0
+Libya,2004,0,0
+Libya,2008,0,0
+Libya,2012,0,0
+Libya,2016,0,0
+Liechtenstein,1936,0,0
+Liechtenstein,1948,0,0
+Liechtenstein,1952,0,0
+Liechtenstein,1956,0,0
+Liechtenstein,1960,0,0
+Liechtenstein,1964,0,0
+Liechtenstein,1968,0,0
+Liechtenstein,1972,0,0
+Liechtenstein,1976,2,2
+Liechtenstein,1980,4,6
+Liechtenstein,1984,2,8
+Liechtenstein,1988,1,9
+Liechtenstein,1992,0,9
+Liechtenstein,1994,0,9
+Liechtenstein,1996,0,9
+Liechtenstein,1998,0,9
+Liechtenstein,2000,0,9
+Liechtenstein,2002,0,9
+Liechtenstein,2004,0,9
+Liechtenstein,2006,0,9
+Liechtenstein,2008,0,9
+Liechtenstein,2010,0,9
+Liechtenstein,2012,0,9
+Liechtenstein,2014,0,9
+Liechtenstein,2016,0,9
+Lithuania,1924,0,0
+Lithuania,1928,0,0
+Lithuania,1992,13,13
+Lithuania,1994,0,13
+Lithuania,1996,11,24
+Lithuania,1998,0,24
+Lithuania,2000,17,41
+Lithuania,2002,0,41
+Lithuania,2004,3,44
+Lithuania,2006,0,44
+Lithuania,2008,5,49
+Lithuania,2010,0,49
+Lithuania,2012,5,54
+Lithuania,2014,0,54
+Lithuania,2016,7,61
+Luxembourg,1900,1,1
+Luxembourg,1912,0,1
+Luxembourg,1920,1,2
+Luxembourg,1924,2,4
+Luxembourg,1928,1,5
+Luxembourg,1932,0,5
+Luxembourg,1936,0,5
+Luxembourg,1948,0,5
+Luxembourg,1952,1,6
+Luxembourg,1956,0,6
+Luxembourg,1960,0,6
+Luxembourg,1964,0,6
+Luxembourg,1968,0,6
+Luxembourg,1972,0,6
+Luxembourg,1976,0,6
+Luxembourg,1980,0,6
+Luxembourg,1984,0,6
+Luxembourg,1988,0,6
+Luxembourg,1992,2,8
+Luxembourg,1994,0,8
+Luxembourg,1996,0,8
+Luxembourg,1998,0,8
+Luxembourg,2000,0,8
+Luxembourg,2004,0,8
+Luxembourg,2006,0,8
+Luxembourg,2008,0,8
+Luxembourg,2012,0,8
+Luxembourg,2014,0,8
+Luxembourg,2016,0,8
+Macedonia,1996,0,0
+Macedonia,1998,0,0
+Macedonia,2000,1,1
+Macedonia,2002,0,1
+Macedonia,2004,0,1
+Macedonia,2006,0,1
+Macedonia,2008,0,1
+Macedonia,2010,0,1
+Macedonia,2012,0,1
+Macedonia,2014,0,1
+Macedonia,2016,0,1
+Madagascar,1964,0,0
+Madagascar,1968,0,0
+Madagascar,1972,0,0
+Madagascar,1980,0,0
+Madagascar,1984,0,0
+Madagascar,1992,0,0
+Madagascar,1996,0,0
+Madagascar,2000,0,0
+Madagascar,2004,0,0
+Madagascar,2006,0,0
+Madagascar,2008,0,0
+Madagascar,2012,0,0
+Madagascar,2016,0,0
+Malawi,1972,0,0
+Malawi,1984,0,0
+Malawi,1988,0,0
+Malawi,1992,0,0
+Malawi,1996,0,0
+Malawi,2000,0,0
+Malawi,2004,0,0
+Malawi,2008,0,0
+Malawi,2012,0,0
+Malawi,2016,0,0
+Malaysia,1956,0,0
+Malaysia,1960,0,0
+Malaysia,1964,0,0
+Malaysia,1968,0,0
+Malaysia,1972,0,0
+Malaysia,1976,0,0
+Malaysia,1984,0,0
+Malaysia,1988,0,0
+Malaysia,1992,2,2
+Malaysia,1996,3,5
+Malaysia,2000,0,5
+Malaysia,2004,0,5
+Malaysia,2008,1,6
+Malaysia,2012,2,8
+Malaysia,2016,8,16
+Maldives,1988,0,0
+Maldives,1992,0,0
+Maldives,1996,0,0
+Maldives,2000,0,0
+Maldives,2004,0,0
+Maldives,2008,0,0
+Maldives,2012,0,0
+Maldives,2016,0,0
+Mali,1964,0,0
+Mali,1968,0,0
+Mali,1972,0,0
+Mali,1980,0,0
+Mali,1984,0,0
+Mali,1988,0,0
+Mali,1992,0,0
+Mali,1996,0,0
+Mali,2000,0,0
+Mali,2004,0,0
+Mali,2008,0,0
+Mali,2012,0,0
+Mali,2016,0,0
+Malta,1928,0,0
+Malta,1936,0,0
+Malta,1948,0,0
+Malta,1960,0,0
+Malta,1968,0,0
+Malta,1972,0,0
+Malta,1980,0,0
+Malta,1984,0,0
+Malta,1988,0,0
+Malta,1992,0,0
+Malta,1996,0,0
+Malta,2000,0,0
+Malta,2004,0,0
+Malta,2008,0,0
+Malta,2012,0,0
+Malta,2014,0,0
+Malta,2016,0,0
+Marshall Islands,2008,0,0
+Marshall Islands,2012,0,0
+Marshall Islands,2016,0,0
+Mauritania,1984,0,0
+Mauritania,1988,0,0
+Mauritania,1992,0,0
+Mauritania,1996,0,0
+Mauritania,2000,0,0
+Mauritania,2004,0,0
+Mauritania,2008,0,0
+Mauritania,2012,0,0
+Mauritania,2016,0,0
+Mauritius,1984,0,0
+Mauritius,1988,0,0
+Mauritius,1992,0,0
+Mauritius,1996,0,0
+Mauritius,2000,0,0
+Mauritius,2004,0,0
+Mauritius,2008,1,1
+Mauritius,2012,0,1
+Mauritius,2016,0,1
+Mexico,1900,3,3
+Mexico,1924,0,3
+Mexico,1928,0,3
+Mexico,1932,2,5
+Mexico,1936,16,21
+Mexico,1948,9,30
+Mexico,1952,1,31
+Mexico,1956,2,33
+Mexico,1960,1,34
+Mexico,1964,1,35
+Mexico,1968,9,44
+Mexico,1972,1,45
+Mexico,1976,2,47
+Mexico,1980,10,57
+Mexico,1984,6,63
+Mexico,1988,2,65
+Mexico,1992,1,66
+Mexico,1994,0,66
+Mexico,1996,1,67
+Mexico,2000,6,73
+Mexico,2002,0,73
+Mexico,2004,4,77
+Mexico,2008,4,81
+Mexico,2010,0,81
+Mexico,2012,24,105
+Mexico,2014,0,105
+Mexico,2016,5,110
+Micronesia,2000,0,0
+Micronesia,2004,0,0
+Micronesia,2008,0,0
+Micronesia,2012,0,0
+Micronesia,2016,0,0
+Moldova,1994,0,0
+Moldova,1996,3,3
+Moldova,1998,0,3
+Moldova,2000,2,5
+Moldova,2002,0,5
+Moldova,2004,0,5
+Moldova,2006,0,5
+Moldova,2008,1,6
+Moldova,2010,0,6
+Moldova,2012,2,8
+Moldova,2014,0,8
+Moldova,2016,0,8
+Monaco,1920,0,0
+Monaco,1924,1,1
+Monaco,1928,0,1
+Monaco,1932,0,1
+Monaco,1936,0,1
+Monaco,1948,0,1
+Monaco,1952,0,1
+Monaco,1960,0,1
+Monaco,1964,0,1
+Monaco,1968,0,1
+Monaco,1972,0,1
+Monaco,1976,0,1
+Monaco,1984,0,1
+Monaco,1988,0,1
+Monaco,1992,0,1
+Monaco,1994,0,1
+Monaco,1996,0,1
+Monaco,1998,0,1
+Monaco,2000,0,1
+Monaco,2002,0,1
+Monaco,2004,0,1
+Monaco,2006,0,1
+Monaco,2008,0,1
+Monaco,2010,0,1
+Monaco,2012,0,1
+Monaco,2014,0,1
+Monaco,2016,0,1
+Mongolia,1964,0,0
+Mongolia,1968,4,4
+Mongolia,1972,1,5
+Mongolia,1976,1,6
+Mongolia,1980,4,10
+Mongolia,1984,0,10
+Mongolia,1988,1,11
+Mongolia,1992,2,13
+Mongolia,1994,0,13
+Mongolia,1996,1,14
+Mongolia,1998,0,14
+Mongolia,2000,0,14
+Mongolia,2002,0,14
+Mongolia,2004,1,15
+Mongolia,2006,0,15
+Mongolia,2008,4,19
+Mongolia,2010,0,19
+Mongolia,2012,5,24
+Mongolia,2014,0,24
+Mongolia,2016,2,26
+Montenegro,2008,0,0
+Montenegro,2010,0,0
+Montenegro,2012,14,14
+Montenegro,2014,0,14
+Montenegro,2016,0,14
+Morocco,1960,1,1
+Morocco,1964,0,1
+Morocco,1968,0,1
+Morocco,1972,0,1
+Morocco,1976,0,1
+Morocco,1984,2,3
+Morocco,1988,3,6
+Morocco,1992,3,9
+Morocco,1996,2,11
+Morocco,2000,5,16
+Morocco,2004,3,19
+Morocco,2008,2,21
+Morocco,2010,0,21
+Morocco,2012,1,22
+Morocco,2014,0,22
+Morocco,2016,1,23
+Mozambique,1980,0,0
+Mozambique,1984,0,0
+Mozambique,1988,0,0
+Mozambique,1992,0,0
+Mozambique,1996,1,1
+Mozambique,2000,1,2
+Mozambique,2004,0,2
+Mozambique,2008,0,2
+Mozambique,2012,0,2
+Mozambique,2016,0,2
+Myanmar,1948,0,0
+Myanmar,1952,0,0
+Myanmar,1956,0,0
+Myanmar,1960,0,0
+Myanmar,1964,0,0
+Myanmar,1968,0,0
+Myanmar,1972,0,0
+Myanmar,1980,0,0
+Myanmar,1984,0,0
+Myanmar,1988,0,0
+Myanmar,1992,0,0
+Myanmar,1996,0,0
+Myanmar,2000,0,0
+Myanmar,2004,0,0
+Myanmar,2008,0,0
+Myanmar,2012,0,0
+Myanmar,2016,0,0
+Namibia,1992,2,2
+Namibia,1996,2,4
+Namibia,2000,0,4
+Namibia,2004,0,4
+Namibia,2008,0,4
+Namibia,2012,0,4
+Namibia,2016,0,4
+Nauru,1996,0,0
+Nauru,2000,0,0
+Nauru,2004,0,0
+Nauru,2008,0,0
+Nauru,2012,0,0
+Nauru,2016,0,0
+Nepal,1924,1,1
+Nepal,1964,0,1
+Nepal,1972,0,1
+Nepal,1976,0,1
+Nepal,1980,0,1
+Nepal,1984,0,1
+Nepal,1988,0,1
+Nepal,1992,0,1
+Nepal,1996,0,1
+Nepal,2000,0,1
+Nepal,2002,0,1
+Nepal,2004,0,1
+Nepal,2006,0,1
+Nepal,2008,0,1
+Nepal,2010,0,1
+Nepal,2012,0,1
+Nepal,2014,0,1
+Nepal,2016,0,1
+Netherlands,1900,27,27
+Netherlands,1906,6,33
+Netherlands,1908,16,49
+Netherlands,1912,26,75
+Netherlands,1920,50,125
+Netherlands,1924,27,152
+Netherlands,1928,57,209
+Netherlands,1932,13,222
+Netherlands,1936,37,259
+Netherlands,1948,42,301
+Netherlands,1952,21,322
+Netherlands,1956,0,322
+Netherlands,1960,5,327
+Netherlands,1964,33,360
+Netherlands,1968,23,383
+Netherlands,1972,15,398
+Netherlands,1976,20,418
+Netherlands,1980,10,428
+Netherlands,1984,41,469
+Netherlands,1988,52,521
+Netherlands,1992,37,558
+Netherlands,1994,4,562
+Netherlands,1996,73,635
+Netherlands,1998,11,646
+Netherlands,2000,79,725
+Netherlands,2002,8,733
+Netherlands,2004,77,810
+Netherlands,2006,13,823
+Netherlands,2008,61,884
+Netherlands,2010,11,895
+Netherlands,2012,69,964
+Netherlands,2014,29,993
+Netherlands,2016,47,1040
+New Zealand,1900,1,1
+New Zealand,1920,1,2
+New Zealand,1924,1,3
+New Zealand,1928,1,4
+New Zealand,1932,2,6
+New Zealand,1936,1,7
+New Zealand,1948,0,7
+New Zealand,1952,3,10
+New Zealand,1956,3,13
+New Zealand,1960,3,16
+New Zealand,1964,6,22
+New Zealand,1968,7,29
+New Zealand,1972,14,43
+New Zealand,1976,25,68
+New Zealand,1980,0,68
+New Zealand,1984,23,91
+New Zealand,1988,24,115
+New Zealand,1992,16,131
+New Zealand,1994,0,131
+New Zealand,1996,9,140
+New Zealand,1998,0,140
+New Zealand,2000,4,144
+New Zealand,2002,0,144
+New Zealand,2004,6,150
+New Zealand,2006,0,150
+New Zealand,2008,15,165
+New Zealand,2010,0,165
+New Zealand,2012,27,192
+New Zealand,2014,0,192
+New Zealand,2016,36,228
+Nicaragua,1968,0,0
+Nicaragua,1972,0,0
+Nicaragua,1976,0,0
+Nicaragua,1980,0,0
+Nicaragua,1984,0,0
+Nicaragua,1992,0,0
+Nicaragua,1996,0,0
+Nicaragua,2000,0,0
+Nicaragua,2004,0,0
+Nicaragua,2008,0,0
+Nicaragua,2012,0,0
+Nicaragua,2016,0,0
+Niger,1964,0,0
+Niger,1968,0,0
+Niger,1972,1,1
+Niger,1984,0,1
+Niger,1988,0,1
+Niger,1992,0,1
+Niger,1996,0,1
+Niger,2000,0,1
+Niger,2004,0,1
+Niger,2008,0,1
+Niger,2012,0,1
+Niger,2016,1,2
+Nigeria,1952,0,0
+Nigeria,1956,0,0
+Nigeria,1960,0,0
+Nigeria,1964,1,1
+Nigeria,1968,0,1
+Nigeria,1972,1,2
+Nigeria,1980,0,2
+Nigeria,1984,5,7
+Nigeria,1988,0,7
+Nigeria,1992,11,18
+Nigeria,1996,24,42
+Nigeria,2000,8,50
+Nigeria,2004,8,58
+Nigeria,2008,23,81
+Nigeria,2012,0,81
+Nigeria,2016,18,99
+North Korea,1964,1,1
+North Korea,1972,15,16
+North Korea,1976,2,18
+North Korea,1980,5,23
+North Korea,1984,0,23
+North Korea,1988,0,23
+North Korea,1992,11,34
+North Korea,1996,5,39
+North Korea,1998,0,39
+North Korea,2000,4,43
+North Korea,2004,5,48
+North Korea,2006,0,48
+North Korea,2008,6,54
+North Korea,2010,0,54
+North Korea,2012,6,60
+North Korea,2016,7,67
+Norway,1900,9,9
+Norway,1904,2,11
+Norway,1906,25,36
+Norway,1908,42,78
+Norway,1912,80,158
+Norway,1920,137,295
+Norway,1924,39,334
+Norway,1928,24,358
+Norway,1932,10,368
+Norway,1936,46,414
+Norway,1948,31,445
+Norway,1952,32,477
+Norway,1956,7,484
+Norway,1960,11,495
+Norway,1964,15,510
+Norway,1968,28,538
+Norway,1972,25,563
+Norway,1976,16,579
+Norway,1980,15,594
+Norway,1984,19,613
+Norway,1988,33,646
+Norway,1992,47,693
+Norway,1994,30,723
+Norway,1996,23,746
+Norway,1998,40,786
+Norway,2000,43,829
+Norway,2002,41,870
+Norway,2004,7,877
+Norway,2006,23,900
+Norway,2008,22,922
+Norway,2010,39,961
+Norway,2012,17,978
+Norway,2014,36,1014
+Norway,2016,19,1033
+Oman,1984,0,0
+Oman,1988,0,0
+Oman,1992,0,0
+Oman,1996,0,0
+Oman,2000,0,0
+Oman,2004,0,0
+Oman,2008,0,0
+Oman,2012,0,0
+Oman,2016,0,0
+Pakistan,1948,0,0
+Pakistan,1952,0,0
+Pakistan,1956,14,14
+Pakistan,1960,14,28
+Pakistan,1964,16,44
+Pakistan,1968,13,57
+Pakistan,1972,15,72
+Pakistan,1976,16,88
+Pakistan,1984,16,104
+Pakistan,1988,1,105
+Pakistan,1992,16,121
+Pakistan,1996,0,121
+Pakistan,2000,0,121
+Pakistan,2004,0,121
+Pakistan,2008,0,121
+Pakistan,2010,0,121
+Pakistan,2012,0,121
+Pakistan,2014,0,121
+Pakistan,2016,0,121
+Palau,2000,0,0
+Palau,2004,0,0
+Palau,2008,0,0
+Palau,2012,0,0
+Palau,2016,0,0
+Palestine,1996,0,0
+Palestine,2000,0,0
+Palestine,2004,0,0
+Palestine,2008,0,0
+Palestine,2012,0,0
+Palestine,2016,0,0
+Panama,1928,0,0
+Panama,1948,2,2
+Panama,1952,0,2
+Panama,1960,0,2
+Panama,1964,0,2
+Panama,1968,0,2
+Panama,1972,0,2
+Panama,1976,0,2
+Panama,1984,0,2
+Panama,1988,0,2
+Panama,1992,0,2
+Panama,1996,0,2
+Panama,2000,0,2
+Panama,2004,0,2
+Panama,2008,1,3
+Panama,2012,0,3
+Panama,2016,0,3
+Papua New Guinea,1976,0,0
+Papua New Guinea,1984,0,0
+Papua New Guinea,1988,0,0
+Papua New Guinea,1992,0,0
+Papua New Guinea,1996,0,0
+Papua New Guinea,2000,0,0
+Papua New Guinea,2004,0,0
+Papua New Guinea,2008,0,0
+Papua New Guinea,2012,0,0
+Papua New Guinea,2016,0,0
+Paraguay,1968,0,0
+Paraguay,1972,0,0
+Paraguay,1976,0,0
+Paraguay,1984,0,0
+Paraguay,1988,0,0
+Paraguay,1992,0,0
+Paraguay,1996,0,0
+Paraguay,2000,0,0
+Paraguay,2004,17,17
+Paraguay,2008,0,17
+Paraguay,2012,0,17
+Paraguay,2014,0,17
+Paraguay,2016,0,17
+Peru,1900,0,0
+Peru,1932,0,0
+Peru,1936,0,0
+Peru,1948,1,1
+Peru,1956,0,1
+Peru,1960,0,1
+Peru,1964,0,1
+Peru,1968,0,1
+Peru,1972,0,1
+Peru,1976,0,1
+Peru,1980,0,1
+Peru,1984,1,2
+Peru,1988,12,14
+Peru,1992,1,15
+Peru,1996,0,15
+Peru,2000,0,15
+Peru,2004,0,15
+Peru,2008,0,15
+Peru,2010,0,15
+Peru,2012,0,15
+Peru,2014,0,15
+Peru,2016,0,15
+Philippines,1924,0,0
+Philippines,1928,1,1
+Philippines,1932,3,4
+Philippines,1936,1,5
+Philippines,1948,0,5
+Philippines,1952,0,5
+Philippines,1956,0,5
+Philippines,1960,0,5
+Philippines,1964,1,6
+Philippines,1968,0,6
+Philippines,1972,0,6
+Philippines,1976,0,6
+Philippines,1984,0,6
+Philippines,1988,1,7
+Philippines,1992,1,8
+Philippines,1996,1,9
+Philippines,2000,0,9
+Philippines,2004,0,9
+Philippines,2008,0,9
+Philippines,2012,0,9
+Philippines,2014,0,9
+Philippines,2016,1,10
+Poland,1912,0,0
+Poland,1924,5,5
+Poland,1928,20,25
+Poland,1932,21,46
+Poland,1936,12,58
+Poland,1948,2,60
+Poland,1952,4,64
+Poland,1956,20,84
+Poland,1960,32,116
+Poland,1964,46,162
+Poland,1968,37,199
+Poland,1972,47,246
+Poland,1976,73,319
+Poland,1980,50,369
+Poland,1984,0,369
+Poland,1988,21,390
+Poland,1992,46,436
+Poland,1994,0,436
+Poland,1996,22,458
+Poland,1998,0,458
+Poland,2000,24,482
+Poland,2002,2,484
+Poland,2004,12,496
+Poland,2006,2,498
+Poland,2008,20,518
+Poland,2010,8,526
+Poland,2012,12,538
+Poland,2014,11,549
+Poland,2016,16,565
+Portugal,1912,0,0
+Portugal,1920,0,0
+Portugal,1924,4,4
+Portugal,1928,6,10
+Portugal,1932,0,10
+Portugal,1936,3,13
+Portugal,1948,5,18
+Portugal,1952,2,20
+Portugal,1956,0,20
+Portugal,1960,2,22
+Portugal,1964,0,22
+Portugal,1968,0,22
+Portugal,1972,0,22
+Portugal,1976,2,24
+Portugal,1980,0,24
+Portugal,1984,3,27
+Portugal,1988,1,28
+Portugal,1992,0,28
+Portugal,1994,0,28
+Portugal,1996,3,31
+Portugal,1998,0,31
+Portugal,2000,2,33
+Portugal,2004,3,36
+Portugal,2006,0,36
+Portugal,2008,2,38
+Portugal,2010,0,38
+Portugal,2012,2,40
+Portugal,2014,0,40
+Portugal,2016,1,41
+Puerto Rico,1948,1,1
+Puerto Rico,1952,0,1
+Puerto Rico,1956,0,1
+Puerto Rico,1960,0,1
+Puerto Rico,1964,0,1
+Puerto Rico,1968,0,1
+Puerto Rico,1972,0,1
+Puerto Rico,1976,1,2
+Puerto Rico,1980,0,2
+Puerto Rico,1984,2,4
+Puerto Rico,1988,0,4
+Puerto Rico,1992,1,5
+Puerto Rico,1994,0,5
+Puerto Rico,1996,1,6
+Puerto Rico,1998,0,6
+Puerto Rico,2000,0,6
+Puerto Rico,2004,0,6
+Puerto Rico,2008,0,6
+Puerto Rico,2012,2,8
+Puerto Rico,2016,1,9
+Qatar,1984,0,0
+Qatar,1988,0,0
+Qatar,1992,1,1
+Qatar,1996,0,1
+Qatar,2000,1,2
+Qatar,2004,0,2
+Qatar,2008,0,2
+Qatar,2012,2,4
+Qatar,2016,1,5
+Republic of Congo,1964,0,0
+Republic of Congo,1972,0,0
+Republic of Congo,1980,0,0
+Republic of Congo,1984,0,0
+Republic of Congo,1988,0,0
+Republic of Congo,1992,0,0
+Republic of Congo,1996,0,0
+Republic of Congo,2000,0,0
+Republic of Congo,2004,0,0
+Republic of Congo,2008,0,0
+Republic of Congo,2012,0,0
+Republic of Congo,2016,0,0
+Romania,1900,0,0
+Romania,1924,16,16
+Romania,1928,0,16
+Romania,1932,0,16
+Romania,1936,1,17
+Romania,1948,0,17
+Romania,1952,4,21
+Romania,1956,19,40
+Romania,1960,15,55
+Romania,1964,16,71
+Romania,1968,25,96
+Romania,1972,40,136
+Romania,1976,55,191
+Romania,1980,68,259
+Romania,1984,106,365
+Romania,1988,58,423
+Romania,1992,53,476
+Romania,1994,0,476
+Romania,1996,38,514
+Romania,1998,0,514
+Romania,2000,46,560
+Romania,2002,0,560
+Romania,2004,39,599
+Romania,2006,0,599
+Romania,2008,22,621
+Romania,2010,0,621
+Romania,2012,16,637
+Romania,2014,0,637
+Romania,2016,16,653
+Russia,1900,0,0
+Russia,1908,3,3
+Russia,1912,14,17
+Russia,1924,0,17
+Russia,1952,117,134
+Russia,1956,206,340
+Russia,1960,211,551
+Russia,1964,221,772
+Russia,1968,229,1001
+Russia,1972,259,1260
+Russia,1976,342,1602
+Russia,1980,496,2098
+Russia,1984,56,2154
+Russia,1988,366,2520
+Russia,1992,279,2799
+Russia,1994,36,2835
+Russia,1996,115,2950
+Russia,1998,52,3002
+Russia,2000,187,3189
+Russia,2002,38,3227
+Russia,2004,189,3416
+Russia,2006,41,3457
+Russia,2008,142,3599
+Russia,2010,25,3624
+Russia,2012,140,3764
+Russia,2014,68,3832
+Russia,2016,115,3947
+Rwanda,1984,0,0
+Rwanda,1988,0,0
+Rwanda,1992,0,0
+Rwanda,1996,0,0
+Rwanda,2000,0,0
+Rwanda,2004,0,0
+Rwanda,2008,0,0
+Rwanda,2012,0,0
+Rwanda,2016,0,0
+Saint Kitts,1996,0,0
+Saint Kitts,2000,0,0
+Saint Kitts,2004,0,0
+Saint Kitts,2008,0,0
+Saint Kitts,2012,0,0
+Saint Kitts,2016,0,0
+Saint Lucia,1996,0,0
+Saint Lucia,2000,0,0
+Saint Lucia,2004,0,0
+Saint Lucia,2008,0,0
+Saint Lucia,2012,0,0
+Saint Lucia,2016,0,0
+Saint Vincent,1988,0,0
+Saint Vincent,1992,0,0
+Saint Vincent,1996,0,0
+Saint Vincent,2000,0,0
+Saint Vincent,2004,0,0
+Saint Vincent,2008,0,0
+Saint Vincent,2012,0,0
+Saint Vincent,2016,0,0
+Samoa,1984,0,0
+Samoa,1988,0,0
+Samoa,1992,0,0
+Samoa,1996,0,0
+Samoa,2000,0,0
+Samoa,2004,0,0
+Samoa,2008,0,0
+Samoa,2012,0,0
+Samoa,2016,0,0
+San Marino,1960,0,0
+San Marino,1968,0,0
+San Marino,1972,0,0
+San Marino,1976,0,0
+San Marino,1980,0,0
+San Marino,1984,0,0
+San Marino,1988,0,0
+San Marino,1992,0,0
+San Marino,1994,0,0
+San Marino,1996,0,0
+San Marino,2000,0,0
+San Marino,2002,0,0
+San Marino,2004,0,0
+San Marino,2006,0,0
+San Marino,2008,0,0
+San Marino,2010,0,0
+San Marino,2012,0,0
+San Marino,2014,0,0
+San Marino,2016,0,0
+Sao Tome and Principe,1996,0,0
+Sao Tome and Principe,2000,0,0
+Sao Tome and Principe,2004,0,0
+Sao Tome and Principe,2008,0,0
+Sao Tome and Principe,2012,0,0
+Sao Tome and Principe,2016,0,0
+Saudi Arabia,1972,0,0
+Saudi Arabia,1976,0,0
+Saudi Arabia,1984,0,0
+Saudi Arabia,1988,0,0
+Saudi Arabia,1992,0,0
+Saudi Arabia,1996,0,0
+Saudi Arabia,2000,2,2
+Saudi Arabia,2004,0,2
+Saudi Arabia,2008,0,2
+Saudi Arabia,2012,4,6
+Saudi Arabia,2016,0,6
+Senegal,1964,0,0
+Senegal,1968,0,0
+Senegal,1972,0,0
+Senegal,1976,0,0
+Senegal,1980,0,0
+Senegal,1984,0,0
+Senegal,1988,1,1
+Senegal,1992,0,1
+Senegal,1994,0,1
+Senegal,1996,0,1
+Senegal,2000,0,1
+Senegal,2004,0,1
+Senegal,2006,0,1
+Senegal,2008,0,1
+Senegal,2010,0,1
+Senegal,2012,0,1
+Senegal,2016,0,1
+Serbia,1912,0,0
+Serbia,1920,0,0
+Serbia,1924,2,2
+Serbia,1928,12,14
+Serbia,1932,0,14
+Serbia,1936,1,15
+Serbia,1948,16,31
+Serbia,1952,24,55
+Serbia,1956,23,78
+Serbia,1960,17,95
+Serbia,1964,15,110
+Serbia,1968,29,139
+Serbia,1972,18,157
+Serbia,1976,19,176
+Serbia,1980,57,233
+Serbia,1984,88,321
+Serbia,1988,69,390
+Serbia,1992,0,390
+Serbia,1996,26,416
+Serbia,1998,0,416
+Serbia,2000,25,441
+Serbia,2002,0,441
+Serbia,2004,13,454
+Serbia,2006,0,454
+Serbia,2008,15,469
+Serbia,2010,0,469
+Serbia,2012,16,485
+Serbia,2014,0,485
+Serbia,2016,54,539
+Seychelles,1980,0,0
+Seychelles,1984,0,0
+Seychelles,1992,0,0
+Seychelles,1996,0,0
+Seychelles,2000,0,0
+Seychelles,2004,0,0
+Seychelles,2008,0,0
+Seychelles,2012,0,0
+Seychelles,2016,0,0
+Sierra Leone,1968,0,0
+Sierra Leone,1980,0,0
+Sierra Leone,1984,0,0
+Sierra Leone,1988,0,0
+Sierra Leone,1992,0,0
+Sierra Leone,1996,0,0
+Sierra Leone,2000,0,0
+Sierra Leone,2004,0,0
+Sierra Leone,2008,0,0
+Sierra Leone,2012,0,0
+Sierra Leone,2016,0,0
+Slovakia,1994,0,0
+Slovakia,1996,3,3
+Slovakia,1998,0,3
+Slovakia,2000,6,9
+Slovakia,2002,0,9
+Slovakia,2004,10,19
+Slovakia,2006,1,20
+Slovakia,2008,10,30
+Slovakia,2010,3,33
+Slovakia,2012,5,38
+Slovakia,2014,1,39
+Slovakia,2016,8,47
+Slovenia,1992,6,6
+Slovenia,1994,3,9
+Slovenia,1996,2,11
+Slovenia,1998,0,11
+Slovenia,2000,3,14
+Slovenia,2002,4,18
+Slovenia,2004,5,23
+Slovenia,2006,0,23
+Slovenia,2008,5,28
+Slovenia,2010,3,31
+Slovenia,2012,5,36
+Slovenia,2014,8,44
+Slovenia,2016,4,48
+Solomon Islands,1984,0,0
+Solomon Islands,1988,0,0
+Solomon Islands,1992,0,0
+Solomon Islands,1996,0,0
+Solomon Islands,2000,0,0
+Solomon Islands,2004,0,0
+Solomon Islands,2008,0,0
+Solomon Islands,2012,0,0
+Solomon Islands,2016,0,0
+Somalia,1972,0,0
+Somalia,1984,0,0
+Somalia,1988,0,0
+Somalia,1996,0,0
+Somalia,2000,0,0
+Somalia,2004,0,0
+Somalia,2008,0,0
+Somalia,2012,0,0
+Somalia,2016,0,0
+South Africa,1904,0,0
+South Africa,1908,2,2
+South Africa,1912,7,9
+South Africa,1920,21,30
+South Africa,1924,3,33
+South Africa,1928,6,39
+South Africa,1932,5,44
+South Africa,1936,1,45
+South Africa,1948,6,51
+South Africa,1952,14,65
+South Africa,1956,7,72
+South Africa,1960,3,75
+South Africa,1992,3,78
+South Africa,1994,0,78
+South Africa,1996,5,83
+South Africa,1998,0,83
+South Africa,2000,5,88
+South Africa,2002,0,88
+South Africa,2004,10,98
+South Africa,2006,0,98
+South Africa,2008,1,99
+South Africa,2010,0,99
+South Africa,2012,9,108
+South Africa,2016,23,131
+South Korea,1948,2,2
+South Korea,1952,2,4
+South Korea,1956,2,6
+South Korea,1960,0,6
+South Korea,1964,3,9
+South Korea,1968,2,11
+South Korea,1972,1,12
+South Korea,1976,17,29
+South Korea,1980,0,29
+South Korea,1984,41,70
+South Korea,1988,77,147
+South Korea,1992,56,203
+South Korea,1994,9,212
+South Korea,1996,66,278
+South Korea,1998,12,290
+South Korea,2000,73,363
+South Korea,2002,7,370
+South Korea,2004,52,422
+South Korea,2006,19,441
+South Korea,2008,78,519
+South Korea,2010,18,537
+South Korea,2012,61,598
+South Korea,2014,14,612
+South Korea,2016,26,638
+South Sudan,2016,0,0
+Spain,1900,2,2
+Spain,1920,23,25
+Spain,1924,0,25
+Spain,1928,3,28
+Spain,1932,1,29
+Spain,1936,0,29
+Spain,1948,3,32
+Spain,1952,1,33
+Spain,1956,0,33
+Spain,1960,14,47
+Spain,1964,0,47
+Spain,1968,0,47
+Spain,1972,2,49
+Spain,1976,6,55
+Spain,1980,24,79
+Spain,1984,19,98
+Spain,1988,5,103
+Spain,1992,70,173
+Spain,1994,0,173
+Spain,1996,66,239
+Spain,1998,0,239
+Spain,2000,42,281
+Spain,2002,0,281
+Spain,2004,30,311
+Spain,2006,0,311
+Spain,2008,70,381
+Spain,2010,0,381
+Spain,2012,63,444
+Spain,2014,0,444
+Spain,2016,45,489
+Sri Lanka,1948,1,1
+Sri Lanka,1952,0,1
+Sri Lanka,1956,0,1
+Sri Lanka,1960,0,1
+Sri Lanka,1964,0,1
+Sri Lanka,1968,0,1
+Sri Lanka,1972,0,1
+Sri Lanka,1980,0,1
+Sri Lanka,1984,0,1
+Sri Lanka,1988,0,1
+Sri Lanka,1992,0,1
+Sri Lanka,1996,0,1
+Sri Lanka,2000,1,2
+Sri Lanka,2004,0,2
+Sri Lanka,2008,0,2
+Sri Lanka,2012,0,2
+Sri Lanka,2016,0,2
+Sudan,1960,0,0
+Sudan,1968,0,0
+Sudan,1972,0,0
+Sudan,1984,0,0
+Sudan,1988,0,0
+Sudan,1992,0,0
+Sudan,1996,0,0
+Sudan,2000,0,0
+Sudan,2004,0,0
+Sudan,2008,1,1
+Sudan,2012,0,1
+Sudan,2016,0,1
+Suriname,1968,0,0
+Suriname,1972,0,0
+Suriname,1976,0,0
+Suriname,1984,0,0
+Suriname,1988,1,1
+Suriname,1992,1,2
+Suriname,1996,0,2
+Suriname,2000,0,2
+Suriname,2004,0,2
+Suriname,2008,0,2
+Suriname,2012,0,2
+Suriname,2016,0,2
+Swaziland,1972,0,0
+Swaziland,1984,0,0
+Swaziland,1988,0,0
+Swaziland,1992,0,0
+Swaziland,1996,0,0
+Swaziland,2000,0,0
+Swaziland,2004,0,0
+Swaziland,2008,0,0
+Swaziland,2012,0,0
+Swaziland,2016,0,0
+Sweden,1896,0,0
+Sweden,1900,4,4
+Sweden,1906,21,25
+Sweden,1908,84,109
+Sweden,1912,190,299
+Sweden,1920,154,453
+Sweden,1924,81,534
+Sweden,1928,53,587
+Sweden,1932,35,622
+Sweden,1936,45,667
+Sweden,1948,88,755
+Sweden,1952,93,848
+Sweden,1956,49,897
+Sweden,1960,16,913
+Sweden,1964,43,956
+Sweden,1968,25,981
+Sweden,1972,26,1007
+Sweden,1976,12,1019
+Sweden,1980,43,1062
+Sweden,1984,64,1126
+Sweden,1988,46,1172
+Sweden,1992,42,1214
+Sweden,1994,24,1238
+Sweden,1996,31,1269
+Sweden,1998,7,1276
+Sweden,2000,32,1308
+Sweden,2002,26,1334
+Sweden,2004,12,1346
+Sweden,2006,64,1410
+Sweden,2008,7,1417
+Sweden,2010,18,1435
+Sweden,2012,22,1457
+Sweden,2014,51,1508
+Sweden,2016,28,1536
+Switzerland,1896,3,3
+Switzerland,1900,21,24
+Switzerland,1904,3,27
+Switzerland,1906,12,39
+Switzerland,1908,0,39
+Switzerland,1912,2,41
+Switzerland,1920,29,70
+Switzerland,1924,69,139
+Switzerland,1928,42,181
+Switzerland,1932,3,184
+Switzerland,1936,62,246
+Switzerland,1948,64,310
+Switzerland,1952,39,349
+Switzerland,1956,13,362
+Switzerland,1960,14,376
+Switzerland,1964,6,382
+Switzerland,1968,22,404
+Switzerland,1972,25,429
+Switzerland,1976,19,448
+Switzerland,1980,11,459
+Switzerland,1984,21,480
+Switzerland,1988,28,508
+Switzerland,1992,8,516
+Switzerland,1994,16,532
+Switzerland,1996,11,543
+Switzerland,1998,14,557
+Switzerland,2000,14,571
+Switzerland,2002,24,595
+Switzerland,2004,7,602
+Switzerland,2006,21,623
+Switzerland,2008,11,634
+Switzerland,2010,12,646
+Switzerland,2012,4,650
+Switzerland,2014,30,680
+Switzerland,2016,11,691
+Syria,1948,0,0
+Syria,1960,2,2
+Syria,1968,0,2
+Syria,1972,0,2
+Syria,1980,0,2
+Syria,1984,1,3
+Syria,1988,0,3
+Syria,1992,0,3
+Syria,1996,1,4
+Syria,2000,0,4
+Syria,2004,1,5
+Syria,2008,0,5
+Syria,2012,0,5
+Syria,2016,0,5
+Taiwan,1956,0,0
+Taiwan,1960,1,1
+Taiwan,1964,0,1
+Taiwan,1968,1,2
+Taiwan,1972,0,2
+Taiwan,1976,0,2
+Taiwan,1984,1,3
+Taiwan,1988,0,3
+Taiwan,1992,20,23
+Taiwan,1994,0,23
+Taiwan,1996,1,24
+Taiwan,1998,0,24
+Taiwan,2000,5,29
+Taiwan,2002,0,29
+Taiwan,2004,9,38
+Taiwan,2006,0,38
+Taiwan,2008,4,42
+Taiwan,2010,0,42
+Taiwan,2012,2,44
+Taiwan,2014,0,44
+Taiwan,2016,5,49
+Tajikistan,1996,0,0
+Tajikistan,2000,0,0
+Tajikistan,2002,0,0
+Tajikistan,2004,0,0
+Tajikistan,2006,0,0
+Tajikistan,2008,2,2
+Tajikistan,2010,0,2
+Tajikistan,2012,1,3
+Tajikistan,2014,0,3
+Tajikistan,2016,1,4
+Tanzania,1964,0,0
+Tanzania,1968,0,0
+Tanzania,1972,0,0
+Tanzania,1980,2,2
+Tanzania,1984,0,2
+Tanzania,1988,0,2
+Tanzania,1992,0,2
+Tanzania,1996,0,2
+Tanzania,2000,0,2
+Tanzania,2004,0,2
+Tanzania,2008,0,2
+Tanzania,2012,0,2
+Tanzania,2016,0,2
+Thailand,1952,0,0
+Thailand,1956,0,0
+Thailand,1960,0,0
+Thailand,1964,0,0
+Thailand,1968,0,0
+Thailand,1972,0,0
+Thailand,1976,1,1
+Thailand,1984,1,2
+Thailand,1988,1,3
+Thailand,1992,1,4
+Thailand,1996,2,6
+Thailand,2000,3,9
+Thailand,2002,0,9
+Thailand,2004,8,17
+Thailand,2006,0,17
+Thailand,2008,4,21
+Thailand,2012,3,24
+Thailand,2014,0,24
+Thailand,2016,6,30
+Timor-Leste,2004,0,0
+Timor-Leste,2008,0,0
+Timor-Leste,2012,0,0
+Timor-Leste,2014,0,0
+Timor-Leste,2016,0,0
+Togo,1972,0,0
+Togo,1984,0,0
+Togo,1988,0,0
+Togo,1992,0,0
+Togo,1996,0,0
+Togo,2000,0,0
+Togo,2004,0,0
+Togo,2008,1,1
+Togo,2012,0,1
+Togo,2014,0,1
+Togo,2016,0,1
+Tonga,1984,0,0
+Tonga,1988,0,0
+Tonga,1992,0,0
+Tonga,1996,1,1
+Tonga,2000,0,1
+Tonga,2004,0,1
+Tonga,2008,0,1
+Tonga,2012,0,1
+Tonga,2014,0,1
+Tonga,2016,0,1
+Trinidad,1948,1,1
+Trinidad,1952,2,3
+Trinidad,1956,0,3
+Trinidad,1960,5,8
+Trinidad,1964,6,14
+Trinidad,1968,0,14
+Trinidad,1972,0,14
+Trinidad,1976,1,15
+Trinidad,1980,0,15
+Trinidad,1984,0,15
+Trinidad,1988,0,15
+Trinidad,1992,0,15
+Trinidad,1994,0,15
+Trinidad,1996,2,17
+Trinidad,1998,0,17
+Trinidad,2000,2,19
+Trinidad,2002,0,19
+Trinidad,2004,1,20
+Trinidad,2008,6,26
+Trinidad,2012,10,36
+Trinidad,2016,1,37
+Tunisia,1960,0,0
+Tunisia,1964,2,2
+Tunisia,1968,2,4
+Tunisia,1972,1,5
+Tunisia,1976,0,5
+Tunisia,1984,0,5
+Tunisia,1988,0,5
+Tunisia,1992,0,5
+Tunisia,1996,1,6
+Tunisia,2000,0,6
+Tunisia,2004,0,6
+Tunisia,2008,1,7
+Tunisia,2012,3,10
+Tunisia,2016,3,13
+Turkey,1906,0,0
+Turkey,1912,0,0
+Turkey,1924,0,0
+Turkey,1928,0,0
+Turkey,1932,0,0
+Turkey,1936,2,2
+Turkey,1948,12,14
+Turkey,1952,3,17
+Turkey,1956,7,24
+Turkey,1960,9,33
+Turkey,1964,6,39
+Turkey,1968,2,41
+Turkey,1972,1,42
+Turkey,1976,0,42
+Turkey,1984,3,45
+Turkey,1988,2,47
+Turkey,1992,6,53
+Turkey,1994,0,53
+Turkey,1996,6,59
+Turkey,1998,0,59
+Turkey,2000,5,64
+Turkey,2002,0,64
+Turkey,2004,11,75
+Turkey,2006,0,75
+Turkey,2008,7,82
+Turkey,2010,0,82
+Turkey,2012,5,87
+Turkey,2014,0,87
+Turkey,2016,8,95
+Turkmenistan,1996,0,0
+Turkmenistan,2000,0,0
+Turkmenistan,2004,0,0
+Turkmenistan,2008,0,0
+Turkmenistan,2012,0,0
+Turkmenistan,2016,0,0
+UK,1896,9,9
+UK,1900,108,117
+UK,1904,2,119
+UK,1906,39,158
+UK,1908,368,526
+UK,1912,170,696
+UK,1920,111,807
+UK,1924,95,902
+UK,1928,59,961
+UK,1932,35,996
+UK,1936,53,1049
+UK,1948,63,1112
+UK,1952,32,1144
+UK,1956,46,1190
+UK,1960,28,1218
+UK,1964,30,1248
+UK,1968,19,1267
+UK,1972,29,1296
+UK,1976,33,1329
+UK,1980,48,1377
+UK,1984,73,1450
+UK,1988,54,1504
+UK,1992,50,1554
+UK,1994,3,1557
+UK,1996,26,1583
+UK,1998,4,1587
+UK,2000,54,1641
+UK,2002,6,1647
+UK,2004,57,1704
+UK,2006,1,1705
+UK,2008,81,1786
+UK,2010,1,1787
+UK,2012,126,1913
+UK,2014,10,1923
+UK,2016,145,2068
+United States of America,1896,20,20
+United States of America,1900,63,83
+United States of America,1904,394,477
+United States of America,1906,24,501
+United States of America,1908,65,566
+United States of America,1912,107,673
+United States of America,1920,194,867
+United States of America,1924,194,1061
+United States of America,1928,102,1163
+United States of America,1932,223,1386
+United States of America,1936,112,1498
+United States of America,1948,168,1666
+United States of America,1952,164,1830
+United States of America,1956,149,1979
+United States of America,1960,152,2131
+United States of America,1964,177,2308
+United States of America,1968,173,2481
+United States of America,1972,195,2676
+United States of America,1976,175,2851
+United States of America,1980,30,2881
+United States of America,1984,361,3242
+United States of America,1988,214,3456
+United States of America,1992,238,3694
+United States of America,1994,19,3713
+United States of America,1996,259,3972
+United States of America,1998,34,4006
+United States of America,2000,242,4248
+United States of America,2002,84,4332
+United States of America,2004,263,4595
+United States of America,2006,52,4647
+United States of America,2008,317,4964
+United States of America,2010,97,5061
+United States of America,2012,248,5309
+United States of America,2014,64,5373
+United States of America,2016,264,5637
+Uganda,1956,0,0
+Uganda,1960,0,0
+Uganda,1964,0,0
+Uganda,1968,2,2
+Uganda,1972,2,4
+Uganda,1980,1,5
+Uganda,1984,0,5
+Uganda,1988,0,5
+Uganda,1992,0,5
+Uganda,1996,1,6
+Uganda,2000,0,6
+Uganda,2004,0,6
+Uganda,2008,0,6
+Uganda,2012,1,7
+Uganda,2016,0,7
+Ukraine,1994,2,2
+Ukraine,1996,34,36
+Ukraine,1998,1,37
+Ukraine,2000,35,72
+Ukraine,2002,0,72
+Ukraine,2004,47,119
+Ukraine,2006,3,122
+Ukraine,2008,31,153
+Ukraine,2010,0,153
+Ukraine,2012,26,179
+Ukraine,2014,5,184
+Ukraine,2016,15,199
+United Arab Emirates,1984,0,0
+United Arab Emirates,1988,0,0
+United Arab Emirates,1992,0,0
+United Arab Emirates,1996,0,0
+United Arab Emirates,2000,0,0
+United Arab Emirates,2004,1,1
+United Arab Emirates,2008,0,1
+United Arab Emirates,2012,0,1
+United Arab Emirates,2016,1,2
+Uruguay,1924,14,14
+Uruguay,1928,17,31
+Uruguay,1932,1,32
+Uruguay,1936,0,32
+Uruguay,1948,3,35
+Uruguay,1952,14,49
+Uruguay,1956,12,61
+Uruguay,1960,0,61
+Uruguay,1964,1,62
+Uruguay,1968,0,62
+Uruguay,1972,0,62
+Uruguay,1976,0,62
+Uruguay,1984,0,62
+Uruguay,1988,0,62
+Uruguay,1992,0,62
+Uruguay,1996,0,62
+Uruguay,1998,0,62
+Uruguay,2000,1,63
+Uruguay,2004,0,63
+Uruguay,2008,0,63
+Uruguay,2012,0,63
+Uruguay,2016,0,63
+Uzbekistan,1994,1,1
+Uzbekistan,1996,2,3
+Uzbekistan,1998,0,3
+Uzbekistan,2000,4,7
+Uzbekistan,2002,0,7
+Uzbekistan,2004,5,12
+Uzbekistan,2006,0,12
+Uzbekistan,2008,6,18
+Uzbekistan,2010,0,18
+Uzbekistan,2012,3,21
+Uzbekistan,2014,0,21
+Uzbekistan,2016,13,34
+Vanuatu,1988,0,0
+Vanuatu,1992,0,0
+Vanuatu,1996,0,0
+Vanuatu,2000,0,0
+Vanuatu,2004,0,0
+Vanuatu,2008,0,0
+Vanuatu,2012,0,0
+Vanuatu,2016,0,0
+Venezuela,1932,0,0
+Venezuela,1948,0,0
+Venezuela,1952,1,1
+Venezuela,1956,0,1
+Venezuela,1960,1,2
+Venezuela,1964,0,2
+Venezuela,1968,1,3
+Venezuela,1972,0,3
+Venezuela,1976,1,4
+Venezuela,1980,1,5
+Venezuela,1984,3,8
+Venezuela,1988,0,8
+Venezuela,1992,0,8
+Venezuela,1996,0,8
+Venezuela,1998,0,8
+Venezuela,2000,0,8
+Venezuela,2002,0,8
+Venezuela,2004,2,10
+Venezuela,2006,0,10
+Venezuela,2008,1,11
+Venezuela,2012,1,12
+Venezuela,2014,0,12
+Venezuela,2016,3,15
+Vietnam,1952,0,0
+Vietnam,1956,0,0
+Vietnam,1960,0,0
+Vietnam,1964,0,0
+Vietnam,1968,0,0
+Vietnam,1972,0,0
+Vietnam,1980,0,0
+Vietnam,1988,0,0
+Vietnam,1992,0,0
+Vietnam,1996,0,0
+Vietnam,2000,1,1
+Vietnam,2004,0,1
+Vietnam,2008,1,2
+Vietnam,2012,0,2
+Vietnam,2016,2,4
+"Virgin Islands, British",1984,0,0
+"Virgin Islands, British",1988,0,0
+"Virgin Islands, British",1992,0,0
+"Virgin Islands, British",1996,0,0
+"Virgin Islands, British",2000,0,0
+"Virgin Islands, British",2004,0,0
+"Virgin Islands, British",2008,0,0
+"Virgin Islands, British",2012,0,0
+"Virgin Islands, British",2014,0,0
+"Virgin Islands, British",2016,0,0
+"Virgin Islands, US",1968,0,0
+"Virgin Islands, US",1972,0,0
+"Virgin Islands, US",1976,0,0
+"Virgin Islands, US",1984,0,0
+"Virgin Islands, US",1988,1,1
+"Virgin Islands, US",1992,0,1
+"Virgin Islands, US",1994,0,1
+"Virgin Islands, US",1996,0,1
+"Virgin Islands, US",1998,0,1
+"Virgin Islands, US",2000,0,1
+"Virgin Islands, US",2002,0,1
+"Virgin Islands, US",2004,0,1
+"Virgin Islands, US",2008,0,1
+"Virgin Islands, US",2012,0,1
+"Virgin Islands, US",2014,0,1
+"Virgin Islands, US",2016,0,1
+Yemen,1984,0,0
+Yemen,1988,0,0
+Yemen,1992,0,0
+Yemen,1996,0,0
+Yemen,2000,0,0
+Yemen,2004,0,0
+Yemen,2008,0,0
+Yemen,2012,0,0
+Yemen,2016,0,0
+Zambia,1964,0,0
+Zambia,1968,0,0
+Zambia,1972,0,0
+Zambia,1980,0,0
+Zambia,1984,1,1
+Zambia,1988,0,1
+Zambia,1992,0,1
+Zambia,1996,1,2
+Zambia,2000,0,2
+Zambia,2004,0,2
+Zambia,2008,0,2
+Zambia,2012,0,2
+Zambia,2016,0,2
+Zimbabwe,1928,0,0
+Zimbabwe,1960,0,0
+Zimbabwe,1964,0,0
+Zimbabwe,1980,15,15
+Zimbabwe,1984,0,15
+Zimbabwe,1988,0,15
+Zimbabwe,1992,0,15
+Zimbabwe,1996,0,15
+Zimbabwe,2000,0,15
+Zimbabwe,2004,3,18
+Zimbabwe,2008,4,22
+Zimbabwe,2012,0,22
+Zimbabwe,2014,0,22
+Zimbabwe,2016,0,22
