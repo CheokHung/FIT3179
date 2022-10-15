@@ -11,17 +11,36 @@
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
   
 </head>
-<body>
-  
-<div id="choropleth_map"></div>
+    <body>
+        <h1>Details of Medals from 120 Years of Olympics</h1>
+        <div class="page">  
+            
+            <h2>Number of Medals by Country</h2>
 
-<script type="text/javascript">
+            <div class="pure-g" a>
+              <div class="pure-u-1-1">
+                <div id="choropleth_map"></div>
+              </div>
+                
+            </div>
+            <br>
+            <script type="text/javascript">
 
-  var spec2 = "js/assignment2.vg.json";
-  vegaEmbed('#choropleth_map', spec2).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-</script>
+            var spec2 = "js/assignment2.vg.json";
+            vegaEmbed('#choropleth_map', spec2).then(function(result) {
+            }).catch(console.error);
+            </script>
 
-</body>
+
+            <div id="medal_chart"></div>
+            <script>var spec3 = "js/medalByCountry.vg.json"
+            vegaEmbed("#medal_chart",spec3).then(function(result){
+
+            }).catch(console.error)
+            </script> 
+
+
+
+        </div>
+    </body>
 </html>
