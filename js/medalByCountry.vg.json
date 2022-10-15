@@ -1,0 +1,27 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+
+    
+    "data": {
+        "url": "https://raw.githubusercontent.com/CheokHung/FIT3179/master/data/yearly_cleaned_data.csv"
+        
+    },
+    "title": "Culmulative Number of Medal of Top 5 Countries (Over 120 Years) ",
+    "width": 900,
+    "height":500,
+    "params":[
+        {"name": "hover","value":[{"Country":"UK"}],"select":{"type":"point","fields":["Country"],"on" :"mouseover"}}],
+    "transform": [
+        {"filter":{"field":"Country","oneOf":["United States of America","Russia","Germany","UK","France"]}},
+        {"fold": ["Medal","Bronze","Silver","Gold"],"as": ["Type","Count"]}
+    ],
+    
+    "mark":{"type": "line","strokeWidth":5},
+    "encoding": {"x": { "field":"Year","type": "ordinal"},        
+                "y":{"field":"cumulative_sum","type": "quantitative"},
+                "color":{"condition":{"param":"hover","field":"Country","type": "nominal"},"value":"grey"
+                        }
+            }
+}
+          
