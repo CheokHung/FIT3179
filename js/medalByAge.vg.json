@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "data":{"url": "https://raw.githubusercontent.com/CheokHung/FIT3179/master/data/cleaned_age_data.csv"},
+    "repeat":["Medal","Bronze","Silver","Gold"],
+    "columns":2,
+    "spec":{"width": 450,
+            "height": 250,
+            "layer":[
+                {"mark":"bar",
+                "encoding": 
+                    {"x":{"field":"Age","type": "ordinal","title":"Age","axis":{"values":[10,20,30,40,50,60,70,80,90]}},
+                    "y":{"field":{"repeat":"repeat"},"title":null,"type":"quantitative"},
+                    "tooltip":[{"field":"Age","type": "nominal"},{"field":{"repeat":"repeat"},"title":"Number of Medals: ","type":"quantitative"}],
+                    "color":{"value":"#00008B"}
+                }
+                },{
+                    "data":{
+                        "values":[{
+                            "Medal":"Total Medals",
+                            "Bronze":"Bronze Medals",
+                            "Silver":"Silver Medals",
+                            "Gold":"Gold Medals"
+                                    }
+                                ]
+                            },
+                    "mark":{"type": "text",
+                            "align":"right",
+                            "baseline":"bottom",
+                            "x":"width",
+                            "y":0,
+                            "size":15},
+                    "encoding": {"text":{"field":{"repeat":"repeat"}}}
+                }
+                ]
+            }
+
+}

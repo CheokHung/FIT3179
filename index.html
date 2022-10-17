@@ -30,15 +30,46 @@
             vegaEmbed('#choropleth_map', spec2).then(function(result) {
             }).catch(console.error);
             </script>
-
-
-            <div id="medal_chart"></div>
+             <h2>Cumulative number of Medals of the top 5 Countries</h2> 
+            <div class="pure-g" >
+              <div class="pure-u-1-1">
+                <div id="medal_chart"></div>
+              </div>
+                
+            </div>
+            <br>          
+           
             <script>var spec3 = "js/medalByCountry.vg.json"
             vegaEmbed("#medal_chart",spec3).then(function(result){
 
             }).catch(console.error)
             </script> 
+            <h2>Proportions of Medals won by Each Gender</h2>
+            <div class="pure-g" >
+              <div class="pure-u-1-1">
+                <div id="byGender_chart"></div>
+              </div>
+                
+            </div>
+            <br>           
+            <script>var spec4 = "js/medalByGender.vg.json"
+            vegaEmbed("#byGender_chart",spec4).then(function(result){
 
+            }).catch(console.error)
+            </script> 
+            <h2>Distribution of Medal Across Ages (10-97)</h2>
+            <div class="pure-g" >
+              <div class="pure-u-1-1">
+                <div id="byAge_chart"></div>
+              </div>
+                
+            </div>
+            <br>           
+            <script>var spec5 = "js/medalByAge.vg.json"
+            vegaEmbed("#byAge_chart",spec5).then(function(result){
+
+            }).catch(console.error)
+            </script> 
 
 
         </div>

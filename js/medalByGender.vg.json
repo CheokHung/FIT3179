@@ -1,0 +1,53 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    
+    "data":{"url": "https://raw.githubusercontent.com/CheokHung/FIT3179/master/data/cleaned_GroupByGender_data.csv"},
+    "repeat":["Medal","Bronze","Silver","Gold"],
+    "columns":2,
+    "spec":{"width": 450,
+            "height": 250,
+            "layer":[
+                {"mark":{"type": "arc","innerRadius":50},
+            
+                "encoding": {
+                        "theta":{
+                            "field":{"repeat": "repeat"},
+                            "type": "quantitative"},
+
+                        "color":{
+                            "field":"Sex",
+                            "type": "nominal",
+                            "legend":{"labelExpr": "datum.Sex == 'F' ? 'Female' : 'Male'",
+                            "title":"Gender"}},
+
+                        "tooltip":[
+                            {"field":"Sex",
+                            "type": "nominal"},
+                            {"field":{"repeat": "repeat"},
+                            "type": "quantitative"}]
+                        
+                        }
+                
+                },{
+                    "data":{
+                        "values":[{
+                            "Medal":"Total Medals",
+                            "Bronze":"Bronze Medals",
+                            "Silver":"Silver Medals",
+                            "Gold":"Gold Medals"
+                                    }
+                                ]
+                            },
+                    "mark":{"type": "text",
+                            "align":"right",
+                            "baseline":"bottom",
+                            "x":"width",
+                            "y":0,
+                            "size":15},
+                    "encoding": {"text":{"field":{"repeat":"repeat"}}}
+                }
+                ]
+            },
+    "resolve": {"scale": {"theta": "independent"}}
+}
