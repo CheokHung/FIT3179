@@ -49,5 +49,6 @@
                 }
                 ]
             },
-    "resolve": {"scale": {"theta": "independent"}}
+    "resolve": {"scale": {"theta": "independent"}},
+    "config": {"background":"#ffecd2"}
 }

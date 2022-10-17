@@ -7,7 +7,6 @@
         "url": "https://raw.githubusercontent.com/CheokHung/FIT3179/master/data/yearly_cleaned_data.csv"
         
     },
-    "title": "Culmulative Number of Medal of Top 5 Countries (Over 120 Years) ",
     "width": 900,
     "height":500,
     "params":[
@@ -20,8 +19,19 @@
     "mark":{"type": "line","strokeWidth":5},
     "encoding": {"x": { "field":"Year","type": "ordinal"},        
                 "y":{"field":"cumulative_sum","type": "quantitative"},
-                "color":{"condition":{"param":"hover","field":"Country","type": "nominal"},"value":"grey"
-                        }
-            }
+                "color":{"condition":
+                                {"param":"hover",
+                                "field":"Country",
+                                "type": "nominal",
+                                "legend":{
+                                        "symbolStrokeWidth":10,
+                                        "labelFontSize":14}
+                                },
+                        "value":"grey"
+                        
+                        },
+                "opacity":{"condition":{"param":"hover"},"value":0.2}
+            },
+            "config": {"background":"#ffecd2           "}
 }
           

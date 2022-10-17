@@ -33,6 +33,7 @@
                     "encoding": {"text":{"field":{"repeat":"repeat"}}}
                 }
                 ]
-            }
+            },
+            "config": {"background":"#ffecd2"}
 
 }

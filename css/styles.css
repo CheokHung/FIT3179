@@ -1,5 +1,7 @@
 body{
 	text-align: center;
-	
+	background-color:beige;
 }
 
+p{font:"Sans Serif" ;
+	font-size : 18px}

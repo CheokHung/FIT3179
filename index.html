@@ -13,24 +13,33 @@
 </head>
     <body>
         <h1>Details of Medals from 120 Years of Olympics</h1>
+        <h4 >by Soong Cheok Hung</h4>
         <div class="page">  
             
             <h2>Number of Medals by Country</h2>
-
+            <p >
+              On the map below (after selecting a medal type), it can be seen that <br>
+               countries with vast population such as the United State of America or Russia <br>
+              tend to be able to win more medals due to the available number talents.<br>
+               Besides, another factor than may affect medal winnings could be GDP <br>
+              as seen from the countries of Germany, United Kingdom, and France</p>
             <div class="pure-g" >
               <div class="pure-u-1-1">
                 <div id="choropleth_map"></div>
               </div>
                 
             </div>
-            <br>
+            
             <script type="text/javascript">
 
             var spec2 = "js/assignment2.vg.json";
             vegaEmbed('#choropleth_map', spec2).then(function(result) {
             }).catch(console.error);
             </script>
-             <h2>Cumulative number of Medals of the top 5 Countries</h2> 
+            <h4>Select a medal type to show on the map        </h4>
+            <br>
+             <h2>Cumulative number of Medals of the top 5 Countries</h2>
+             <p>Below is a chart detailing the increase in cumulative Medals of the top 5 Countries</p> 
             <div class="pure-g" >
               <div class="pure-u-1-1">
                 <div id="medal_chart"></div>
@@ -45,6 +54,9 @@
             }).catch(console.error)
             </script> 
             <h2>Proportions of Medals won by Each Gender</h2>
+            <p>Below shows the proportions of the genders of medal winners.<br>
+  
+            </p>
             <div class="pure-g" >
               <div class="pure-u-1-1">
                 <div id="byGender_chart"></div>
@@ -58,6 +70,10 @@
             }).catch(console.error)
             </script> 
             <h2>Distribution of Medal Across Ages (10-97)</h2>
+            <p>Below shows the distribution of the Age of medal winners.<br>
+              A vast majority of medals were won by 
+              athletes between the age of 20-30, and peaking at 23 Years old.<br>
+              This can be reasoned to be the athletes reaching their physical and mental peak at this age.
             <div class="pure-g" >
               <div class="pure-u-1-1">
                 <div id="byAge_chart"></div>
